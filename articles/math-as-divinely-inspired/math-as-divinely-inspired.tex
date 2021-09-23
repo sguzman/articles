@@ -1,22 +1,66 @@
 \documentclass{article}  
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
+\usepackage{esint}
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
+\usepackage{epigraph}
+\usepackage{beton}
+\usepackage{euler}
+\usepackage[OT1]{fontenc}
 
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1.5}
 
 
 \begin{document}
-	
-	\title{\Large{\textbf{Math as Divinely Inspired}}}
+	\selectlanguage{english}
+	\title{
+		\Large{
+			\fontfamily{phv}
+			\selectfont{
+				\textbf{M}\textsc{ath}
+				as
+				\textbf{D}\textsc{ivinely}
+				\textbf{I}\textsc{nspired}
+			}
+		}
+	}
 	
 	\author{Salvador Guzm\'{a}n Jr}
 	\date{\today}
 	\maketitle
 	
 	\pagebreak
+	\begin{center}
+		\epigraph{
+			No est\'{a} muerto lo que puede acostarse eternamente
+			y con eones extraños  incluso la muerte
+			puede morir
+		}{\textit{
+				HP Lovecraft
+		}}
+		\epigraph{
+			\begin{math}
+				\int_{\partial\Omega} \omega=\int_{\Omega} \emph{d}\omega
+			\end{math}
+			\linebreak
+			\linebreak
+			\begin{math}
+				\iint_{\emph{S}}(\vec{\nabla}\times\vec{B})\cdot \emph{d}\vec{\emph{S}}=\oint_{\emph{C}}\vec{B}\cdot d \vec{l}
+			\end{math}
+		}{
+			\textit{Teorema de Stokes}
+		}
+		
+		\epigraph{
+			Aunque ande en valle de sombra de muerte,
+			No temeré mal alguno, porque tú estarás conmigo;
+			Tu vara y tu cayado me infundirán aliento
+		}{
+			\textit{Salmos 23:4}
+		}
+	\end{center}
 	\pagebreak
 	\tableofcontents
 	\pagebreak
