@@ -1,8 +1,10 @@
 \documentclass{article}  
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
+\usepackage{esint}
 \usepackage{fancyhdr}
 \usepackage[spanish]{babel}
+\usepackage{epigraph}
 
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1.5}
@@ -19,14 +21,35 @@
 	\begin{center}
 		\thispagestyle{empty}
 		\vspace*{\fill}
-		Por mi diosito, mi lindo Mexico y mi querida madre
+		\textbf{Por mi diosito, mi lindo M\'{e}xico y mi querida} madre
 		\linebreak
-		Que siguan prosperando los tres
+		\textbf{Que siguen prosperando los tres}
 		\vspace*{\fill}
+	\end{center}
+	\pagebreak
+	\begin{center}
+		\epigraph{
+			No est\'{a} muerto lo que puede acostarse eternamente
+			y con eones extraños  incluso la muerte puede morir
+		}{\textit{
+			HP Lovecraft
+		}}
+		\epigraph{
+			\begin{math}
+				\int_{\partial\Omega} \omega=\int_{\Omega} \emph{d}\omega
+			\end{math}
+		\linebreak
+		\linebreak
+			\begin{math}
+				\iint_{\emph{S}}(\vec{\nabla}\times\vec{B})\cdot \emph{d}\vec{\emph{S}}=\oint_{\emph{C}}\vec{B}\cdot d \vec{l}
+			\end{math}
+		}{
+			Teorema de Stokes
+		}
 	\end{center}
 	\pagebreak
 	\tableofcontents
 	\pagebreak
 	
-	\section{Introducto}
+	\section{Prólogo}
 \end{document}
