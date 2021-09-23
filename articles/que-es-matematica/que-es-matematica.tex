@@ -5,13 +5,24 @@
 \usepackage{fancyhdr}
 \usepackage[spanish]{babel}
 \usepackage{epigraph}
+\usepackage{beton}
+\usepackage{euler}
+\usepackage[OT1]{fontenc}
 
 \setlength{\parindent}{4em}
 \renewcommand{\baselinestretch}{1.5}
 
 \begin{document}
 	\selectlanguage{spanish}
-	\title{\Large{\textbf{¿Que es la matemática?}}}
+	\title{
+		\Large{
+				\fontfamily{phv}
+				\selectfont{
+					¿\textbf{Q}\textsc{ue es la}
+					\textbf{M}\textsc{atem\'{a}tica}?
+				}
+		}
+	}
 	
 	\author{Salvador Guzm\'{a}n Jr}
 	\date{\today}
@@ -21,16 +32,23 @@
 	\begin{center}
 		\thispagestyle{empty}
 		\vspace*{\fill}
-		\textbf{Por mi diosito, mi lindo M\'{e}xico y mi querida} madre
-		\linebreak
-		\textbf{Que siguen prosperando los tres}
+					\textbf{
+			\fontfamily{phv}
+			\selectfont{
+				Por mi diosito, mi lindo M\'{e}xico y mi querida madre
+				\linebreak
+				Que siguen prosperando los tres
+			}
+		}
+		
 		\vspace*{\fill}
 	\end{center}
 	\pagebreak
 	\begin{center}
 		\epigraph{
 			No est\'{a} muerto lo que puede acostarse eternamente
-			y con eones extraños  incluso la muerte puede morir
+			y con eones extraños  incluso la muerte
+			puede morir
 		}{\textit{
 			HP Lovecraft
 		}}
@@ -38,13 +56,21 @@
 			\begin{math}
 				\int_{\partial\Omega} \omega=\int_{\Omega} \emph{d}\omega
 			\end{math}
-		\linebreak
-		\linebreak
+			\linebreak
+			\linebreak
 			\begin{math}
 				\iint_{\emph{S}}(\vec{\nabla}\times\vec{B})\cdot \emph{d}\vec{\emph{S}}=\oint_{\emph{C}}\vec{B}\cdot d \vec{l}
 			\end{math}
 		}{
-			Teorema de Stokes
+			\textit{Teorema de Stokes}
+		}
+
+		\epigraph{
+			Aunque ande en valle de sombra de muerte,
+			No temeré mal alguno, porque tú estarás conmigo;
+			Tu vara y tu cayado me infundirán aliento
+		}{
+			\textit{Salmos 23:4}
 		}
 	\end{center}
 	\pagebreak
@@ -52,4 +78,5 @@
 	\pagebreak
 	
 	\section{Prólogo}
+	Querido lector ocioso,
 \end{document}
