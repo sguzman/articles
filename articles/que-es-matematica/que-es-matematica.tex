@@ -10,13 +10,18 @@
 \usepackage[OT1]{fontenc}
 \usepackage{yfonts}
 \usepackage{type1cm}
-\usepackage{lettrine}
 \usepackage{multicol}
 \setlength{\columnsep}{1cm}
 \usepackage{blindtext}
+\usepackage{titlesec}
 
 \begin{document}
+	\titlespacing{\subsection}{0pt}{0pt}{45pt}
 	\selectlanguage{spanish}
+	\renewcommand{\thesection}{\Roman{section}} 
+	\renewcommand{\thesubsection}{\thesection.\Roman{subsection}}
+	\renewcommand{\thesubsubsection}{\thesection.\thesubsection.\Roman{subsubsection}}
+	
 	\title{\Huge{\textswab{Que es Matem\'{a}tica}}}
 	\author{Salvador Guzm\'{a}n Jr}
 	\date{\today}
