@@ -1,4 +1,8 @@
-\documentclass{article}  
+\documentclass[ms,a4paper]{memoir}
+\chapterstyle{dash} % try also reparticle
+\usepackage{ulem}   % underline
+\usepackage{xcolor} %
+\usepackage{lipsum} %dummy text
 \usepackage[utf8]{inputenc}
 \usepackage{amsmath}
 \usepackage{esint}
@@ -8,89 +12,102 @@
 \usepackage{beton}
 \usepackage{euler}
 \usepackage[OT1]{fontenc}
+% All font size must be normal size 
+\renewcommand{\large}{\normalsize}
+\renewcommand{\Large}{\normalsize}
+\newcommand{\red}[1]{\textcolor{red!50!black}{#1}}
+\newcommand{\RED}[1]{\textcolor{red!50!black}{\MakeUppercase{#1}}}
+% font hyphenation 
+\usepackage{everysel}
+\EverySelectfont{%
+	\fontdimen2\font=0.6em % interword space
+	\fontdimen3\font=0.2em % interword stretch
+	\fontdimen4\font=0.1em % interword shrink
+	\fontdimen7\font=0.9em % extra space
+	\hyphenchar\font=`\-% to allow hyphenation
+}
 
-\setlength{\parindent}{4em}
-\renewcommand{\baselinestretch}{1.5}
+
+%\usepackage[spacing=true,factor=1200, stretch=10, shrink=15]{microtype}
+
+\renewcommand{\baselinestretch}{1}
+
+
+\newbox\flinebox 
+\newbox\slinebox
+\newbox\mlinebox
+\def\duplines{\setlength\parindent{0pt}
+	\setbox\flinebox\lastbox
+	\ifvoid\flinebox\relax
+	\else
+	\setbox\slinebox\hbox{\copy\flinebox}
+	\setbox\mlinebox\hbox{\copy\flinebox}
+	\unskip\unpenalty
+	{\duplines}
+	
+	{\color{black!30} \box\flinebox\vspace*{-2.85ex}}
+	{\color{black!50} \makebox[\textwidth]{\hspace*{-0.25pt}\box\mlinebox}\vspace*{-2.75ex}}
+	{\color{black!90}  \makebox[\textwidth]{\hspace*{0.25pt}\box\slinebox}}\fi
+	
+}
+
+\newcommand\BlurText[1]{%
+	\vbox{#1\par\duplines}}
 
 
 \begin{document}
 	\selectlanguage{english}
-	\title{
-		\Large{
-			\fontfamily{phv}
-			\selectfont{
-				\textbf{M}\textsc{ath}
-				as
-				\textbf{D}\textsc{ivinely}
-				\textbf{I}\textsc{nspired}
-			}
-		}
-	}
+	\title{\textbf{Math as Divinely Inspired}}
 	
-	\author{Salvador Guzm\'{a}n Jr}
+	\author{Salvador Guzm\'{a}n Jr.}
 	\date{\today}
 	\maketitle
 	
 	\pagebreak
-	\begin{center}
-		\selectlanguage{spanish}
-		\epigraph{
-			No est\'{a} muerto lo que puede acostarse eternamente
-			y con eones extraños  incluso la muerte
-			puede morir
-		}{\textit{
-				HP Lovecraft
-		}}
-		\epigraph{
-			\begin{math}
-				\int_{\partial\Omega} \omega=\int_{\Omega} \emph{d}\omega
-			\end{math}
-			\linebreak
-			\linebreak
-			\begin{math}
-				\iint_{\emph{S}}(\vec{\nabla}\times\vec{B})\cdot \emph{d}\vec{\emph{S}}=\oint_{\emph{C}}\vec{B}\cdot d \vec{l}
-			\end{math}
-		}{
-			\textit{Teorema de Stokes}
-		}
-		
-		\epigraph{
-			Aunque ande en valle de sombra de muerte,
-			No temeré mal alguno, porque tú estarás conmigo;
-			Tu vara y tu cayado me infundirán aliento
-		}{
-			\textit{Salmos 23:4}
-		}
-	\end{center}
+	
 	\pagebreak
 	\tableofcontents
 	\pagebreak
 	
-	\section{Introduction}
+	\chapter{\RED{Introduction}}
 	The extraordinary purchase that the intellectual blossoming mathematics experienced is beyond reproach. This certain scholarly field, as an academic discipline and as a practical application to engineering problems, is the quintessential success story for why raw intellectualism delivers on its promises. To say that this field found success with even the more prudishly pragmatic elements of society is to deprive mathematics of its many more splendid laurels that intend to pay dividends commensurate with the prosperity of humanity. Indeed, it is our primary intellectual beast of burden on which the modern world rests.
 	
 	And to say that the mathematical edifice bequeathed to us by the historical process captured our effervescent spirit is to mitigate our immodest revel in the art. Surely, we have been enraptured by this craft and the practitioners thereof have experienced a lofty elevation in status among the common populace. This is a very interesting development for a field known to be arcane and relatively inaccessible to the wider audience. One imagines it is this very unapproachability that contributes the consensus of our age and conclusively regards math as a divinely inspired creation.
 	
-	And it is this consensus, that mathematics has evaded the perdition that haunts humanity since the fall; that this craft offers us a glimpse at the heavenly realms that elude our vision; and that there is no incremental historical development to speak of when discussing this body work, as such a divine creation would not allow itself to be mended piecewise. Yes it is this consensus that I wish to disabuse.
+	And it is this consensus, that mathematics has evaded the perdition that haunts humanity since the fall; that this craft offers us a glimpse at the heavenly realms that elude our vision; and that there is no incremental historical development to speak of when discussing this body work, as such a divine creation would not allow itself to be mended piece-wise. Yes it is this consensus that I wish to disabuse.
 	
-	\section{Discursive Realities - What is Math?}
+	\chapter{\RED{Why the Venom?}}
+	\section{\red{A Frank Tangent}}
+	The idea is that it has been in vogue of academics to fashion literature for the purposes of excoriating subjects or concepts that they wish to diminish. The intent is to deface the public's appreciation of some established thought for political purposes. This is an ensconced tradition of academic life and the prime vehicle by which public intellectuals affect change in their respective societies.
+	
+	I pray that this not come as a revelation to any. As a self-proclaimed private intellectual, I am bolstered by power that ideas can have once championed and wielded for the progressive transformation of society. If you believe a fanciful concoction contrived for whatever purposes this author has envisioned, let God be merciful to thee for through your reigns does the spirit of the enlightenment has ventured yet to flow. I pray what prospective castigation visits you prove exhaustive in peeling the scales from your eyes.
+	
+	\section{\red{Deconstructing a god}}
+	Thus, what becomes of the method? The guise of presenting a vitriolic tonic as literature or \textit{theory} has a vast volume of written word under its purview. I invoke deconstruction in an article purporting to render a sacred theme into its constituent functional parts. In the great drama of history and by the vanguards that hold the traditions that haunt us, does that not render this author a devil?
+	
+	I, ever the diplomat, seek to humor those that are satisfied with ejecting some truculent snarl word my way. This author unequivocally realizes the appreciate value of realms of thought and wishes all intellectual endeavors a appreciable longevity. Naturally, some of these endeavors will have an acidic reality to them. I want to discuss at length this patina that envelops certain theories as they are rendered caustic by design. And is lead to wonder what this excoriating surface is meant to make contact with; and what is the ultimate end of these objects of inquiry if not to kill all that is sacred.
+	
+	That will have to wait for another time however.
+	
+	No one laments more
+	
+	
+	\chapter{\RED{Discursive Realities - What is Math?}}
 	The extent permitted by the cognizance that most of our citizenry has in respect to math is circumscribed by their grade school experience. The math curriculum of today has gone through an elaborate gauntlet of vicissitudes. Current mathematical pedagogy can best be understood as constituted by a series of fractious schools of thought that purport to thoroughly address the concerns of each other and evince themselves as possessing the correct approach to pedagogy. Iterate this scenario for decades and we arrive at our current curriculum.
 	
 	Far be it from me, someone particular nondescript affiliation with those formal pedagogical institutions to comment on the 
 	
-	\section{Mathematics as Prophetic Revelation}
 	
-	\section{The Holy Sacraments of Mathematics}
-	\subsection{Sacred Logic}
-	\subsection{Apotheosis of Symbols}
-	\subsection{Mathematics as a Social Practice}
-	\subsection{Mathematics as a Teleological Undertaking}
-	\subsection{The Sublime Truth in Mathematics}
-	\subsection{Mathematics's Expansive Metaphysical Empire}
-	\subsection{Semiotics of Another Holy Priesthood}
-	\section{Deconstructing the Sacraments}
-	\subsection{Logic as Cause and Effect}
+	\chapter{\RED{Mathematics as Prophetic Revelation}}
 	
-	
-
+	\chapter{\RED{The Holy Sacraments of Mathematics}}
+	\section{\red{Sacred Logic}}
+	\section{\red{Apotheosis of Symbols}}
+	\section{\red{Mathematics as a Social Practice}}
+	\section{\red{Mathematics as a Teleological Undertaking}}
+	\section{\red{The Sublime Truth in Mathematics}}
+	\section{\red{Mathematics's Expansive Metaphysical Empire}}
+	\section{\red{Semiotics of Another Holy Priesthood}}
+	\section{\red{Deconstructing the Sacraments}}
+	\section{\red{Logic as Cause and Effect}}
 \end{document}
