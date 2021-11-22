@@ -8,3 +8,4 @@ Drafts for articles that I am working on
 - [ ] non-naive interpretation of recursion to offer halting-proof encoding of infinite recursion
 - [ ] math as divinely inspired
 - [ ] logic as justified cause and effect
+- [ ] symbols as ambiguity circumscription
