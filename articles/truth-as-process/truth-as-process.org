@@ -1,0 +1,109 @@
+#+TITLE: Truth as Process
+#+AUTHOR: Salvador Guzman
+#+DATE:  <2021-11-22 Mon>
+#+CATEGORY: Math
+#+CATEGORY: CS
+#+CATEGORY: Truth
+
+* Introduction
+
+  The Halting Problem and its constituent pedagogical discourse circumscribing
+  it always has impressed me with its oddity. This peculiar problem, I would
+  introspect in private, has availed itself lavishly to the contemplative spirit
+  of the human imagination and very much ensconced notions of computation for
+  our age. Through whatever inventive machinations it could afford, the broad
+  outline of this logical exercise in futility had found purchase in the minds
+  of many.
+
+  That this phenomena could be explained perhaps by the eagerness of computer
+  scientists to have under their purview a body of literature rivaling that of
+  more established intellectual traditions shines brightly for me. The zealotry
+  in which a nascent school of thought possesses can of course be explained very
+  much in this way without betraying any elucidating penetrative insight into
+  the matter that animates this discussion in the first place of course. Should
+  this explanation prevail, they can be forgiven for their overzealous efforts.
+  No one is immune from the lofty ambitions that one inherits when commencing an
+  endeavor of intellectual character. Moreover, doubly can they be forgiven when
+  their undertaking is haunted by the charismatic bravado that posterity insists
+  on oppressively bequeathing us.
+
+  Truth be had, however, lest those traditions haughtily gesture beyond their
+  worth, they suffer a similar fate. Not of course in their evocative sense of
+  eagerness, as time for theirs has come and pass to reap them. No, no; what I
+  mean to point out, with all this meandering word mincing is that mundane ideas
+  are granted stature beyond what should be afforded in all sensibility to
+  meager modicums of thought.
+
+* The Halting Problem Proper
+  So what is the problem in question that animates this article to be written?
+  The Halting Problem, as described in my own terms, is often rendered as the
+  proposition that is it impossible to design or engineer an algorithm, using
+  whatever matriculation you have at your disposal, whether some arbitrarily
+  given process (read: algorithm) will terminate.
+
+  Substantive to this problem is the asymmetric exhaustion associated with the
+  two possibilities for the process in question. Either the process exits
+  normally and subsequently allows the algorithm to determine that the process
+  halted or the process never halts. Note that the algorithm and the process
+  both are assumed to run on the same thread, e.g. execution context, and must
+  therefore trade off execution.
+
+  If the process halts, it permits the algorithm the capacity to reason about
+  the freshly terminated process and conclude that it has ended. However, the
+  difficulty comes in the non-terminating case. Since execution context is
+  shared, the process executing starves the algorithm of the ability not just to
+  run, but to reason. Thusly, the algorithm never is permitted to conclude one
+  way or another.
+
+  Approximately, this resembles the dilemma. I do not wish to rehash the minutia
+  here. Let it be said there exist many online resources that can do the problem
+  justice. My purpose here is exposition and only do I weakly desire to capture
+  the problem in its full scope.
+
+* Deconstructing a Problem
+  More paramount that I capture the problem faithfully, the general contours of
+  the problem are what motivated me to write this article. This problem is not
+  unique in investiture to the lapse of logical rigor in satisfying some
+  arbitrarily given criteria. Men are creatures of innovation as much as they
+  are of habit and on circumstance often haunted by tedium. Often their ravenous
+  analytical ability is animus enough to bleed their contemporary tools of all
+
+** Paradox if you want it
+  What I belabor to say, with all matter of pomp and prose, is that the problem
+  is no problem at all. What the Halting Problem, and other rigorous
+  intellectual pursuits share, is that their inabilities to whittle away at
+  purported intractable propositions is by design. Granted, subconscious or
+  otherwise beholding to unconscious passions but intentional nonetheless.
+
+  What always struck me as queer, whenever mathematicians (yes, they are the
+  other guilty party I alluded to in the past) insist on the injurious and
+  injudicious leveraging of the word paradox. I do labor as far as to permit
+  that one man's paradox is relative to each and everyone. Nay; using the most
+  stringent adherence to the definitions espoused wherein a paradox is
+  concocted, one can easily arrive at any paradox proper. That is not in
+  question and the character of the intellectually curious I do not which to
+  mar.
+
+  However, still permitted and what still persists with the tenacity that
+  arrived at paradox in the first place is the desire to faithfully set the
+  scene. What scene? Well, that mathematics and all of its accompanying syntax
+  and notation are man-made, not God-given; that the tools are expressions and
+  manifestations of human intellect; that these intellectual exercises impress
+  more of the authors' peculiarities than of the material on which they are
+  excercised; and finally that any expressions of ineffectual treatment of some
+  subject or other by these authors articulates more a futility of particular
+  imagination rather than a bulwark against the intellectual treatment in the
+  first place.
+
+  That is all.
+
+** Paradox, a choice?
+
+  What permits this conclusion, that paradoxes encountered amid the exercise of
+  reason are more children of circumstance and temperament of the author than of
+  some conclusive global statement on the nature of logic itself, is no
+  grandiose overture. It is the simple return to vision that these are tools.
+  Intellectual or otherwise; just tools. The constructions we use to wander our
+  way through the hinterlands of logical consequence are no more objective, no
+  more perfect, no more Godly, than we are. You would no more engage in the
+  sacrilegious apotheosis of a simple hammer; wherefore then cometh your faith?
