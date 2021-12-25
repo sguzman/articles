@@ -94,10 +94,19 @@ of today has gone through an elaborate gauntlet of vicissitudes. Current
 mathematical pedagogy can best be understood as constituted by a series of
 fractious schools of thought that purport to thoroughly address the concerns of
 each other and evince themselves as possessing the correct approach to pedagogy.
-Iterate this scenario for decades and we arrive at our current curriculum.
+Iterate upon this scenario for decades and we arrive at our current curriculum.
 
-Far be it from me, someone particular nondescript affiliation with those formal
-pedagogical institutions to comment on the
+** Political Churn
+Far be it from me, someone of particular nondescript affiliation with those
+formal pedagogical institutions to comment on the nature of the iterative
+political process. I do not extend but embrace my lapses in knowledge pertaining
+to the exercise of the political environment constituting the esconcement of the
+pedagogical nature of mathematics. All this princely word-mince to imply that
+the context of teaching mathematics is as political as whatever incumbent
+enterprises that mathematicians engage in therein math proper.
+
+That said, I pray deft ears resist the erosive temptation to deny this field its
+Apollo consensus.
 
 
 * Mathematics as Prophetic Revelation
