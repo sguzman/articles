@@ -81,7 +81,7 @@ constrained. I accept all of these with a whole heart and do not seek to injure
 the politic body in anyway. What I do seek is redress of grievances that are
 had in the shadow of rhetoric.
 
-## The Analysis of the Rhetoric of Inclusivity
+## Deconstruction of Dead Rhetoric
 
 Now that I have laid bare the primitive intellectual scaffolding of a school
 drenched in theory, I can now attest to the true lamentations of my soul. For a
@@ -92,9 +92,28 @@ overcoat. It should be held against a soul that the immediate viscera of
 administration is to reach for progressive theory to distill thereof
 managerial function. After all, they have a school to govern. That is not what
 is in contention. Save one the accusation. What instigates this investigation is
-the feasible deception involved in conferring to oneself progressive monike
-Woreds
+the feasible deception involved in conferring to oneself progressive moniker.
+Words are not dead little things that unscrupulous discharge at perceived
+rivals. They have a history and a meaning. Words are all we have to mean.
 
-## The Dead Horse of Demanding that Progressivism be more than Rhetoric
+## The Analysis of the Rhetoric of Inclusivity
 
-competitors
+To call one self inclusive demands in invitation to an inquiry. It is not empty
+marketing devoice of substance. If the nature of inclusion is the purported
+purview of marketing, then the word is lie. There must be conscious scruples
+designed to make that word a reality. Even if the process by which the school
+arrives at that inclusion is flawed or a daily negotiation, some semblance of
+administrative appetite must complement the rhetoric. A consistent failure to
+live up these high standards is better than no undertaking at all. That is part
+and parcel the spirit of progressivism. If the word inclusive is subject to the
+mere whims of administration, then it is a word born of a lie. Thus the gambit
+of inclusivity must be furnished with commensurate resources, that would not be
+present in an supposedly *uninclusive* school. The members must establish a
+pervasive case their words carry weight beyond rhetoric and that they can
+marshall provisions in the governance of an inclusive institution.
+
+If you are a administrator of a school, I ask you, if you are purported
+inclusive school, do you have the resources to back up your rhetoric? If not,
+you have failed in your duty and in your words. Scale back your ambition and
+mind your gestures to the possible. Leave your idealism for another time when
+the *Realpolitik* of your institution can support it.
