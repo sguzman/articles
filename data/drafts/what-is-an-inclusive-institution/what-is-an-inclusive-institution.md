@@ -49,7 +49,7 @@ consuming the other. What is so troubling is not the false dichotomy per se, but
 the equivocation that demands a mutually exclusive platform for politics where
 addressing one aspect of the duality is necessarily at the expense of the other.
 I wish to surmise is that there is no politics without either one. My attitude
-to the matter is that while they cannot both occupy the same pidgeon hole the of
+to the matter is that while they cannot both occupy the same pigeon hole the of
 political economy, there can be constructed a relatively intuitive structure
 that positions these facets into a functional whole.
 
