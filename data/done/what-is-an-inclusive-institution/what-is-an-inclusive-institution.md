@@ -114,7 +114,7 @@ marshall provisions in the governance of an inclusive institution.
 
 ## Recede thy Reach
 
-If you are a administrator of a school, I ask you, if you are purported
+If you are a administrator of a school, I ask you, if you are purportedly an
 inclusive school, do you have the resources to back up your rhetoric? If not,
 you have failed in your duty and in your words. Scale back your ambition and
 mind your gestures to the possible. Leave your idealism for another time when
