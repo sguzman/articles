@@ -88,8 +88,8 @@ drenched in theory, I can now attest to the true lamentations of my soul. For a
 school to call itself inclusive is to align itself concordantly with the times.
 Progressivism theory is to schools as spines are to vertebrates. I wish to
 preemptively exonerate the institutions viscously entangled in this ideological
-overcoat. It should be held against a soul that the immediate viscera of
-administration is to reach for progressive theory to distill thereof
+overcoat. It should not be held against a soul that the immediate viscera of
+administration is to reach for progressive theory to the distill thereof
 managerial function. After all, they have a school to govern. That is not what
 is in contention. Save one the accusation. What instigates this investigation is
 the feasible deception involved in conferring to oneself progressive moniker.
