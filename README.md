@@ -12,3 +12,5 @@ Drafts for articles that I am working on
 - [ ] How not to read a book (disabusing perfect comprehension)
 - [ ] Banality of epistomology (books are interchangeable in knowledge content because wisdom is fungible)
 - [ ] Male violence as the norm (we cannot see it because it is assumed)
+- [ ] Defending elitism (elitist tendencies is part of human nature)
+- [ ] Using only carrots to persuade (reference the book *Europe Undivided* for arguments of success)
