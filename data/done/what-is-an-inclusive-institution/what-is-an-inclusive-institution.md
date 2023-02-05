@@ -73,7 +73,7 @@ their place in society. The warring period of culture and politics has
 terminated and it has rendered **Progressism** the current winner. Whatever
 dissatisfactions one has with the state of politics must be rendered through the
 overgrowing lenses of progressivism. This state of affairs might have not been
-the case if there were a viable political program to progressivism as we
+the case if there were a viable alternative political program to progressivism as we
 understand it. In a parallel universe, there might have been two rival
 left-leaning programs. Either through the virtue of an angel or the machinations
 of a devil, we have our political landscape set for us and our choices
