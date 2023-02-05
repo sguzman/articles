@@ -9,3 +9,6 @@ Drafts for articles that I am working on
 - [ ] math as divinely inspired
 - [ ] logic as justified cause and effect
 - [ ] symbols as ambiguity circumscription
+- [ ] How not to read a book (disabusing perfect comprehension)
+- [ ] Banality of epistomology (books are interchangeable in knowledge content because wisdom is fungible)
+- [ ] Male violence as the norm (we cannot see it because it is assumed)
