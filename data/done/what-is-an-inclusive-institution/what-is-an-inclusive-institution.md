@@ -116,8 +116,8 @@ marshall provisions in the governance of an inclusive institution.
 
 If you are a administrator of a school, I ask you, if you are purportedly an
 inclusive school, do you have the resources to back up your rhetoric? If not,
-you have failed in your duty and in your words. Scale back your ambition and
-mind your gestures to the possible. Leave your idealism for another time when
+you have failed in your duty and in your words. Scale back your ambition, 
+mind your gestures and widen your mind. Leave your idealism for another time when
 the *Realpolitik* of your institution can support it. A reach in extent beyond
 one's grasp is not grounds for litigation and instead should be encouraged. What
 one should demure is from denial of reality in favor of providence. Temper thy
