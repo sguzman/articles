@@ -99,7 +99,7 @@ rivals. They have a history and a meaning. Words are all we have to mean.
 ## The Analysis of the Rhetoric of Inclusivity
 
 To call one self inclusive demands in invitation to an inquiry. It is not empty
-marketing devoice of substance. If the nature of inclusion is the purported
+marketing devoid of substance. If the nature of inclusion is the purported
 purview of marketing, then the word is lie. There must be conscious scruples
 designed to make that word a reality. Even if the process by which the school
 arrives at that inclusion is flawed or a daily negotiation, some semblance of
