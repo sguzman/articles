@@ -92,8 +92,8 @@ overcoat. It should not be held against a soul that the immediate viscera of
 administration is to reach for progressive theory to the distill thereof
 managerial function. After all, they have a school to govern. That is not what
 is in contention. Save one the accusation. What instigates this investigation is
-the feasible deception involved in conferring to oneself progressive moniker.
-Words are not dead little things that unscrupulous discharge at perceived
+the feasible deception involved in conferring to oneself the progressive moniker.
+Words are not dead little things to unscrupulously snarl at perceived
 rivals. They have a history and a meaning. Words are all we have to mean.
 
 ## The Analysis of the Rhetoric of Inclusivity
