@@ -1,5 +1,5 @@
 # Treatises
-Drafts for articles that I am working on
+Drafts for treatises that I am working on
 
 # Treatise ideas
 - [x] truth as a process
