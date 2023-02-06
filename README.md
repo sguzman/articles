@@ -14,3 +14,5 @@ Drafts for treatises that I am working on
 - [ ] Male violence as the norm (we cannot see it because it is assumed)
 - [ ] Defending elitism (elitist tendencies is part of human nature)
 - [ ] Using only carrots to persuade (reference the book *Europe Undivided* for arguments of success)
+- [ ] Commutativity as Fungibility
+- [ ] Towards an Algebra of the Fungible
