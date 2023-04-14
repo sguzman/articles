@@ -481,11 +481,29 @@ degree of the polynomial.
 \end{equation}
 
 Note that the type signature of the polynomial holds even for polynomials.
-While the example I used was for a simple \mathbb{P}^2 monomial, the same type
-holds for any polynomial. This is because the degree of the polynomial is
+While the example I used was for a simple $\mathbb{P}^2$ monomial, the same
+type holds for any polynomial. This is because the degree of the polynomial is
 purely a function of the number of iterations and the highest degree of the
 polynomial. So it seems we made some progress. We can now express the type
 signature for a polynomial as a sequence of operations.
+
+Thus, given some arbitrary polynomial of degree $n$, we can express the type
+signature as,
+
+\begin{equation}
+    f_n(f_n,m): \Delta(\mathbb{P}, n) \rightarrow \Delta(\mathbb{P}, n^m)
+\end{equation}
+
+Meditate on the symbolic elegance of such a statement. We have determined what
+the type of an iterated polynomial is by pure symbolic expression of its own
+degree and number of iterations. That is a beautiful thing to behold but we
+still do not have a way to express the actual computation still.
+
+Now, with all this build up, I think we are ready to share the secret. Finally,
+now is the time to reveal the Copernican Revolution in Syntax. Much in the
+spirit of G\"odel's numbering scheme, we can assign a number to each of our
+operations that appear in a polynomial. The operations in a polynomial are
+addition, multiplication, and exponent. Rather than symbolically
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
