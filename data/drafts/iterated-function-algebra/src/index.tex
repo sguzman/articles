@@ -258,6 +258,7 @@ modest effort. The following are the closed forms of the monomials.
     f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
     f_3(x,n) = a_3 \cdot f_3(x,n-1) \notag                                                             \\
     f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}
+    \label{eq:closed-form-3}
 \end{align}
 
 Beauty is concise. And if polynomials behaved accordingly, closed forms would
@@ -404,7 +405,93 @@ The type signature of the program is as follows,
 The composition of functions is associative and computation can begin at any
 point and spread outwards.
 
+Gorgeous. A function as a sequence of types is useful for breaking down an
+operation to the metaphorical sum of its parts. We want to be able to do this
+to polynomials. Not just in their structured operational form but in their
+iterative dynamic one as well. Given \ref{eq:closed-form-3}, we can express the
+iteration by following the type signature of the incremental iterations.
+Starting from \ref{eq:closed-form-3},
+
+\begin{equation}
+    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag
+\end{equation}
+
+\begin{equation}
+    f_3(x,n) = a_3 \cdot f_3(x,n-1) \notag
+\end{equation}
+
+\begin{equation}
+    f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n} \notag
+\end{equation}
+
+\begin{equation}
+    f_3(x,0) = x
+\end{equation}
+
+\begin{equation}
+    f_3(x,1) = a_3 \cdot x^2
+\end{equation}
+
+\begin{equation}
+    f_3(x,2) = a_3^3 \cdot x^4
+\end{equation}
+
+\begin{equation}
+    f_3(x,3) = a_3^5 \cdot x^6
+\end{equation}
+
+Let's take do proper accounting of the degree of the polynomial across
+iterations.
+
+\begin{equation}
+    f_3 \in \mathbb{P}^2
+\end{equation}
+
+\begin{equation}
+    f_3(x,1) = f_3
+\end{equation}
+
+\begin{equation}
+    f_3(x,2) \in \mathbb{P}^4
+\end{equation}
+
+\begin{equation}
+    f_3(x,3) \in \mathbb{P}^6
+\end{equation}
+
+Expressed as a sequence of operations, the iteration of monomial becomes,
+
+\begin{equation}
+    f_3(x,n) \in \mathbb{P}^{2n}
+\end{equation}
+
+Let's define a helper type signature to aid in writing down the sequence type
+signature.
+
+\begin{equation}
+    \Delta: \mathbb{T} \times \mathbb{N} \rightarrow \mathbb{T}^n
+\end{equation}
+
+$\Delta$ is a type function that accepts some type, from the set of types
+$\mathbb{T}$, and a natural number. I will use this to produce the type of
+degree of the polynomial.
+
+\begin{equation}
+    f_3(f_3,n): \Delta(\mathbb{P}, 2) \rightarrow \Delta(\mathbb{P}, 4) \rightarrow \dots \rightarrow  \Delta(\mathbb{P}, 2n-2) \rightarrow \Delta(\mathbb{P}, 2n)
+\end{equation}
+
+Note that the type signature of the polynomial holds even for polynomials.
+While the example I used was for a simple \mathbb{P}^2 monomial, the same type
+holds for any polynomial. This is because the degree of the polynomial is
+purely a function of the number of iterations and the highest degree of the
+polynomial. So it seems we made some progress. We can now express the type
+signature for a polynomial as a sequence of operations.
+
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
-    \item ...
+    \item Is this a viable approach to the problem of iterated functions?
+    \item Is there any counter example which demonstrates that this approach does not
+          work for polynomials?
+    \item Is there a way to generalize this approach to other types of functions?
+    \item Is there a way to generalize this approach to other types of algebraic objects?
 \end{enumerate}
