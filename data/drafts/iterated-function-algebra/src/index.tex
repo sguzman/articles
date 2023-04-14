@@ -294,9 +294,43 @@ mapped to another space. That is all I will say about that now, suffice to add
 there is beauty in this approach.
 
 What I want to accomplish is even more basic than operators and function
-spaces.
+spaces. I proclaim that there is a tendency of tracking the evolution of a
+binary operation across iterations in the same way that there is a tacit
+pattern for numbers. Let's think about this with solid examples. Let the
+following be our starting points.
+
+\begin{equation}
+    n_1 \in \mathbb{N}
+\end{equation}
+
+\begin{equation}
+    \lambda_1: \mathbb{N} \rightarrow \mathbb{N}
+\end{equation}
+
+Given a simple equation like $\lambda_1$, application of this function $n_1$
+can be symbolically expressed with $\lambda_1(n_1)$. Applying the inverse would
+like this: $\lambda_1^{-1}(\lambda_1(n_1))$. The inverse is the function that
+when applied to the result of $\lambda_1$ yields $n_1$. The inverse is
+$\lambda_1^{-1}$. The full syntax for applying the inverse is,
+
+\begin{equation}
+    (\lambda_1^{-1} \circ \lambda_1) \quad n_1
+\end{equation}
+
+Beautiful. This yields our original operand, $n_1$. Supposed we wanted to
+analyze the type signature of the composed object. Nevermind that the
+composition of an inverse with the original would annihilate itself to the
+identity. Here it is.
+
+\begin{equation}
+    (\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rightarrow \mathbb{N} \rightarrow \mathbb{N}
+\end{equation}
+
+I brought up the notion of type because by this point, its mention seems more
+than proper. In building the type up from the ground, we must keep in mind that
+the inverse takes a function that already has its own type.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
-    \item Are there any
+    \item ...
 \end{enumerate}
