@@ -276,7 +276,7 @@ list; for now, we keep in mind that addition is not a number. Expressed
 formally, addition is,
 
 \begin{equation}
-    +: \mathbb{P}^\alpha \times \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma = (\alpha \lor \gamma)
+    +: \mathbb{P}^\alpha \times \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in \{\alpha, \beta\}
 \end{equation}
 
 In this context, we are concerned with addition as a binary operation on
@@ -339,12 +339,70 @@ functional programming to reduce a function of multiple arity to a series of
 functions of arity 1. The following is the curried form of addition.
 
 \begin{equation}
-    +: \mathbb{P}^\alpha \rightarrow \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma = (\alpha \lor \gamma)
+    +: \mathbb{P}^\alpha \rightarrow \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma \in \{\alpha, \beta\}
 \end{equation}
 
 Again, let's take a moment to appreciate the beauty of this. There is an
 intrinsic aesthetic quality to symbolically manipulating functions and objects
-in general.
+in general. However, we must part ways somewhat with this enthusiastic talk of
+beauty. While we the symbols we have accumulated do indeed express the
+definition properly, we are still far away from a concrete platform for
+rendering iterated forms. Do not confuse symbolic semantic capture with
+functional mechanism of achieving the computational result.
+
+How can we leverage the curried form of addition to achieve our goal? Well, it
+helps think of mathematical expressions as a sequence of operations performed
+on some operand. Presented symbolically, we can express this as,
+
+\begin{equation}
+    \phi: \Gamma_\alpha \rightarrow \Gamma_\omega
+\end{equation}
+
+Think of $phi$ as a full-fledged program that a programmer would write up to
+achieve some task. The set $\Gamma_\alpha$ captures the input to the program
+and the set $\Gamma_\omega$ captures the output. Specifying the individual
+steps as a sequence of operations, the program can be expressed as,
+
+\begin{equation}
+    \phi = \phi_1 \circ \phi_2 \circ \phi_3 \circ \dots \circ \phi_n
+\end{equation}
+
+The type signature of the program is as follows,
+
+\begin{equation}
+    \Gamma_\alpha = \Gamma_1
+\end{equation}
+
+\begin{equation}
+    \Gamma_\omega = \Gamma_2
+\end{equation}
+
+\begin{equation}
+    \phi_1: \Gamma_1 \rightarrow \Gamma_2
+\end{equation}
+
+\begin{equation}
+    \phi_2: \Gamma_2 \rightarrow \Gamma_3
+\end{equation}
+
+\begin{equation}
+    \phi_3: \Gamma_3 \rightarrow \Gamma_4
+\end{equation}
+
+\begin{equation}
+    \phi_n: \Gamma_n \rightarrow \Gamma_{n+1}
+\end{equation}
+
+\begin{equation}
+    \phi: \Gamma_1 \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-2} \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n
+\end{equation}
+
+\begin{equation}
+    \phi: \Gamma_\alpha \rightarrow \Gamma_2 \rightarrow \Gamma_3 \rightarrow \dots \rightarrow \Gamma_{n-1} \rightarrow \Gamma_n \rightarrow \Gamma_\omega
+\end{equation}
+
+The composition of functions is associative and computation can begin at any
+point and spread outwards.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
