@@ -649,14 +649,32 @@ composition alone.
 What is currently thwarting our efforts for simplifying the symbols of
 composition is the gap that exists between the terms $\pi(0)$ and $\pi(1)$. If
 we could combine the two terms amongst themselves, we could achieve a modicum
-of simplication that may improve our chances of computing the final expression.
-However, we need to know what the dynamics is when we have the composition
-expression $\pi(0) \circ \pi(1)$. We need to know what the composition of two
-separate functions is. Can they be reduced? Or better yet, can they be
-reordered without affecting the final result? In other words, does the algebra
-for composition allow for reordering? Given that we have constructed and
-manipulated our symbols at our pleasure, perhaps we can discover some rule that
-would permit judicious reordering so that like terms can combine.
+of simplification that may improve our chances of computing the final
+expression. However, we need to know what the dynamics is when we have the
+composition expression $\pi(0) \circ \pi(1)$. We need to know what the
+composition of two separate functions is. Can they be reduced? Or better yet,
+can they be reordered without affecting the final result? In other words, does
+the algebra for composition allow for reordering? Given that we have
+constructed and manipulated our symbols at our pleasure, perhaps we can
+discover some rule that would permit judicious reordering so that like terms
+can combine. Here is the possible algebraic rule that provides a equitable
+denouement to our dilemma.
+
+\begin{equation}
+    \pi(0) \circ \pi(1) = \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0)
+\end{equation}
+
+\begin{equation}
+    ((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1)))  = \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0) \circ \pi(0) \circ \mathbb{O}_{i=0}^{n_i} \pi(0)
+\end{equation}
+
+\begin{equation}
+    m = 2 \cdot n_i + 2
+\end{equation}
+
+\begin{equation}
+    \pi_1(0) \circ \pi_2(0) \circ \dots \circ \pi_{m-1}(0) \circ \pi_m(0)
+\end{equation}
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
