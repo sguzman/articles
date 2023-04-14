@@ -636,9 +636,27 @@ number; otherwise, we thread into another function to compute the subtree. So
 the new definition is,
 
 \begin{equation}
-    g(x,2) = (g \circ g) \quad x = (\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))
+    g(x,2) = (g \circ g) x = ((\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))) x
     \label{eq:iter3}
 \end{equation}
+
+That is much simpler. We can see the general order of operations as they are
+applied in the final expression. The expression when computed should yield what
+the original polynomial would yield, iterated once. Closer and closer do the
+symbols encroach on a more elegant basis for computation on pure function
+composition alone.
+
+What is currently thwarting our efforts for simplifying the symbols of
+composition is the gap that exists between the terms $\pi(0)$ and $\pi(1)$. If
+we could combine the two terms amongst themselves, we could achieve a modicum
+of simplication that may improve our chances of computing the final expression.
+However, we need to know what the dynamics is when we have the composition
+expression $\pi(0) \circ \pi(1)$. We need to know what the composition of two
+separate functions is. Can they be reduced? Or better yet, can they be
+reordered without affecting the final result? In other words, does the algebra
+for composition allow for reordering? Given that we have constructed and
+manipulated our symbols at our pleasure, perhaps we can discover some rule that
+would permit judicious reordering so that like terms can combine.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
