@@ -3,6 +3,9 @@ Drafts for treatises that I am working on
 
 # Treatise ideas
 - [x] truth as a process
+- [X] What is a Progressive Institution
+- [X] What is in a book
+- [ ] Syntax of Closed Form Polynomial Iteration
 - [ ] interpration-agnostic interpretation of algebraic equations
 - [ ] infinity as intractibility of domain specific toolset
 - [ ] non-naive interpretation of recursion to offer halting-proof encoding of infinite recursion
@@ -16,3 +19,6 @@ Drafts for treatises that I am working on
 - [ ] Using only carrots to persuade (reference the book *Europe Undivided* for arguments of success)
 - [ ] Commutativity as Fungibility
 - [ ] Towards an Algebra of the Fungible
+- [ ] Super axiom and the axiom of choice
+- [ ] I Dream of Femininity: Understanding the Phenomology of Transgenderism
+- [ ] Communism Transcended
