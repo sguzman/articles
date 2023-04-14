@@ -324,11 +324,27 @@ identity. Here it is.
 
 \begin{equation}
     (\lambda_1^{-1} \circ \lambda_1): \mathbb{N} \rightarrow \mathbb{N} \rightarrow \mathbb{N}
+    \label{eq:comp}
 \end{equation}
 
 I brought up the notion of type because by this point, its mention seems more
 than proper. In building the type up from the ground, we must keep in mind that
-the inverse takes a function that already has its own type.
+the inverse takes a function that already has its own type. What \ref{eq:comp}
+demonstrates is that we can easily feed a function another function and
+retrieve a semantically coherent interpretation as a result. Perchance we can
+provide some similar resolution to the problem of addition.
+
+The first thing we would do is curry the function. This is a common practice in
+functional programming to reduce a function of multiple arity to a series of
+functions of arity 1. The following is the curried form of addition.
+
+\begin{equation}
+    +: \mathbb{P}^\alpha \rightarrow \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma = (\alpha \lor \gamma)
+\end{equation}
+
+Again, let's take a moment to appreciate the beauty of this. There is an
+intrinsic aesthetic quality to symbolically manipulating functions and objects
+in general.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
