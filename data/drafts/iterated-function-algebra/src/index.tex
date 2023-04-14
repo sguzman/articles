@@ -614,7 +614,7 @@ polynomial of degree 1. Let us play with the following definition.
 \end{equation}
 
 \begin{equation}
-    g(x,2) = g(g(x)) = \pi(0)(\pi(1)(2,g(x)), 3) \circ \pi(0)(\pi(1)(2,g(x)), 3)
+    g(x,2) = g(g(x)) = \pi(0)(\pi(1)(2,x), 3) \circ \pi(0)(\pi(1)(2,x), 3)
     \label{eq:iter2}
 \end{equation}
 
@@ -630,7 +630,15 @@ Well, for the context of what we are trying to accomplish, we don't care what
 the particular non-function operand is. All we care is the particular ordering
 of the sequence. So let us make a small adjustment to our definition. Not only
 are we going to curry our functions again, we will abstract away wherever we
-see
+see a number. I justification for this is that numbers are terminal nodes in
+our computation tree. We follow the thread of execution until we reach a
+number; otherwise, we thread into another function to compute the subtree. So
+the new definition is,
+
+\begin{equation}
+    g(x,2) = (g \circ g) \quad x = (\pi(0) \circ \pi(1)) \circ (\pi(0) \circ \pi(1))
+    \label{eq:iter3}
+\end{equation}
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
