@@ -265,7 +265,36 @@ be easier to compute. But alas, polynomials are not monomials. We can still
 extract general tendencies by perusing the pattern of the closed forms. The
 coefficients for example become parameters in the final form. They are fed
 through the iterated function and come out with just as iterated as the
-variable $x$ proper.
+variable $x$ proper. This is so for amenable to our normal intuition and does
+not deviated from any of our expectations. What polynomials have in store for
+us however complicate the iterative story.
+
+Scaffolding ontop of the simple monomial substrate is the vexing existence of
+addition. I have much theory and philosophy to dissert on the nature of
+addition, for example how addition is semantic equivalent to append by way of a
+list; for now, we keep in mind that addition is not a number. Expressed
+formally, addition is,
+
+\begin{equation}
+    +: \mathbb{P}^\alpha \times \mathbb{P}^\beta \rightarrow \mathbb{P}^\gamma, \quad \alpha, \beta, \gamma \in \mathbb{N} \land \gamma = (\alpha \lor \gamma)
+\end{equation}
+
+In this context, we are concerned with addition as a binary operation on
+monomials that returns another monomial. The degree of the monomial is the
+largest of the two operands.
+
+Naturally, we would seek to find some isomorphism of addition to numbers. Set
+more informally, we would like to treat addition as operated by iteration the
+way numbers are operated by 1-arity functions. There is a rich field of theory
+targeting this intuition. Operator theory seeks to understand the structure and
+dynamics of functions when applied to an function. The operand function is
+understood to be a member of some space of functions and operator function,
+called an operator, is understood to be the mechanism by which the operand is
+mapped to another space. That is all I will say about that now, suffice to add
+there is beauty in this approach.
+
+What I want to accomplish is even more basic than operators and function
+spaces.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
