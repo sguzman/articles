@@ -561,7 +561,37 @@ of addition is at the bottom and the "larger" operation of exponentiation is
 the biggest one. All I did is number them starting 0 and incrementing by 1. The
 function $\pi$ is a function that returns a function. Think of it has a
 convenient hash to store the operations in a given order. When we add $n$ as
-second operand to $\pi$, we are adding the ability to
+second operand to $\pi$, we are adding the ability to iterate our operation.
+
+Now here comes the real magic. Here it is.
+
+\begin{equation}
+    \pi(i) = \mathbb{O}_{i=0}^{n_i} \pi(i-1)
+\end{equation}
+
+This equation is my contribution. Let me explain the vague terms and then I
+will continue to explain the equation.
+
+\begin{enumerate}
+    \item $\pi(i)$ is a function that returns a function.
+    \item $i$ is a natural number used to index $\pi$.
+    \item $\mathbb{O}$ is my ad hoc way of composing some set of operations. In
+          this example, I am using to compose a function with itself
+    \item $n_i$ is the number of times to compose the function with itself. What
+          $n_i$ is not important. It is a natural number that determines how many
+          times to compose the function with itself. And the number defines how many
+          iterations are needed to "reach" the next operation in the sequence.
+    \item $\pi(i-1)$ is the function that is being composed with itself.
+          Specifically, the previous function in the ordering is being iterated to
+          yield the next operator in the sequence.
+\end{enumerate}
+
+While it is rough in some ways, I think I have achieved something significant.
+Behold my gift to you. It is this equation and symbols.
+
+The idea behind it is that any operations that we are currently studying can be
+put in some ordering. The order can be any you desire but should primarily
+reflect some intuitive notion of the "size" and ranking of the operation.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
