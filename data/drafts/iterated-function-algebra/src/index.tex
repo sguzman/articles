@@ -214,7 +214,58 @@ will yield similar productivity. I believe it will but have no desire to prove
 it. That will take more quiet research on my part before I am ready to divulge
 any success in other areas.
 
-\subsection{}
+\subsection{Approach Proper}
+Let the following definition be the starting point of our discussion.
+
+\begin{equation}
+    f(x)=ax^2 + bx + c, \quad f: \mathbb{R} \rightarrow \mathbb{R} \land a,b,c \in \mathbb{R}
+\end{equation}
+
+Supposed we wanted to find the closed form of $f(x)$ for $n$ iterations. That
+would be quite an ordeal. While easily expressible symbolically, $f(x,n)$ where
+$n \in \mathbb{N}$, the prospect of computing the closed form is of a degree
+more onerous. For that reason, we will start simpler monomials to represent the
+undertaking in a more accommodating context. Let the following three monomials
+guide our discourse.
+
+\begin{equation}
+    f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}
+\end{equation}
+
+\begin{equation}
+    f_2(x) = a_2 \cdot x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}
+\end{equation}
+
+\begin{equation}
+    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}
+\end{equation}
+
+Monomials, by their simple structure, can easily yield a closed form through
+modest effort. The following are the closed forms of the monomials.
+
+\begin{align}
+    f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
+    f_1(x,n) = a_1
+\end{align}
+
+\begin{align}
+    f_2(x) = a_2x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
+    f_2(x,n) = a_2 \cdot f_2(x,n-1) \notag                                                    \\
+    f_2(x,n) = {a_2}^{n} \cdot x
+\end{align}
+
+\begin{align}
+    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
+    f_3(x,n) = a_3 \cdot f_3(x,n-1) \notag                                                             \\
+    f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}
+\end{align}
+
+Beauty is concise. And if polynomials behaved accordingly, closed forms would
+be easier to compute. But alas, polynomials are not monomials. We can still
+extract general tendencies by perusing the pattern of the closed forms. The
+coefficients for example become parameters in the final form. They are fed
+through the iterated function and come out with just as iterated as the
+variable $x$ proper.
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
