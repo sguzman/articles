@@ -503,7 +503,65 @@ Now, with all this build up, I think we are ready to share the secret. Finally,
 now is the time to reveal the Copernican Revolution in Syntax. Much in the
 spirit of G\"odel's numbering scheme, we can assign a number to each of our
 operations that appear in a polynomial. The operations in a polynomial are
-addition, multiplication, and exponent. Rather than symbolically
+addition, multiplication, and exponent. Rather than symbolically numbering it
+based on where the symbols for each operation appears, we will assign a scheme
+ourselves. Quite frankly, we don't care about the operations syntactically. We
+know they are contained somewhere in the expression. They key is not so much
+the position but the relation of each of the operation to the one another.
+
+The technique is to apply an ordering to the operations. The order should not
+be confused with order of operations. While it is related, I care more about
+reducing the overhead of representing and computing each operation. I would
+like to reduce all three operations to pure symbolic function of computing a
+more primitive composite. Let the following definition be our guiding light.
+
+\begin{equation}
+    \mathbb{O} = \{+, \cdot, ^\circ\}
+\end{equation}
+
+\begin{equation}
+    \pi(0) = +
+\end{equation}
+
+\begin{equation}
+    \pi(1) = \cdot
+\end{equation}
+
+\begin{equation}
+    \pi(2) = ^\cdot
+\end{equation}
+
+\begin{equation}
+    \pi(0,1) = +
+\end{equation}
+
+\begin{equation}
+    \pi(0,2) = + \circ + = \pi(0) \circ \pi(0)
+\end{equation}
+
+\begin{equation}
+    \pi(1,0) = +
+\end{equation}
+
+\begin{equation}
+    \pi(1,1) = \cdot
+\end{equation}
+
+\begin{equation}
+    \pi(1,2) = \cdot \circ + = \pi(1) \circ \pi(1)
+\end{equation}
+
+\begin{equation}
+    \pi(1,n) = \pi_1(1) \circ \pi_2(1) \circ \dots \circ \pi_{n-1}(1) \circ \pi_n(1)
+\end{equation}
+
+This is all fine and good. I have sequenced the operations in a given order.
+This particular should not require much justification. The "smaller" operation
+of addition is at the bottom and the "larger" operation of exponentiation is
+the biggest one. All I did is number them starting 0 and incrementing by 1. The
+function $\pi$ is a function that returns a function. Think of it has a
+convenient hash to store the operations in a given order. When we add $n$ as
+second operand to $\pi$, we are adding the ability to
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
