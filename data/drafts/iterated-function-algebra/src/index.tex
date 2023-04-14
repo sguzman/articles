@@ -592,6 +592,45 @@ Behold my gift to you. It is this equation and symbols.
 The idea behind it is that any operations that we are currently studying can be
 put in some ordering. The order can be any you desire but should primarily
 reflect some intuitive notion of the "size" and ranking of the operation.
+Ultimately, we are the arbiter of our symbols. We assign at our discretion and
+compute at our leisure. A comfortable arrangement can similarly be made with
+any class of algebraic objects. Now lets apply our little trick. To a simple
+polynomial of degree 1. Let us play with the following definition.
+
+\begin{equation}
+    g(x) = 2 \cdot x + 3
+\end{equation}
+
+\begin{equation}
+    g(x) = \pi(0)(\pi(1)(2,x), 3)
+\end{equation}
+
+\begin{equation}
+    g(x,0) = x
+\end{equation}
+
+\begin{equation}
+    g(x,1) = g(x) = \pi(0)(\pi(1)(2,x), 3)
+\end{equation}
+
+\begin{equation}
+    g(x,2) = g(g(x)) = \pi(0)(\pi(1)(2,g(x)), 3) \circ \pi(0)(\pi(1)(2,g(x)), 3)
+    \label{eq:iter2}
+\end{equation}
+
+Note that the general difficulty of this problem, the problem of finding a
+closed-form for iterating polynomials, comes from the onerous requirement of
+having to treat a polynomial at one point as a noun and operand and
+simultaneously as a verb and operator. This is the crux of the problem.
+
+We need to make another adjustment to be able to overcome a hurdle. You can see
+in \ref{eq:iter2} we almost have a streamlined account of pure function
+composition. If it weren't those pesky numbers, we would have a pure sequence.
+Well, for the context of what we are trying to accomplish, we don't care what
+the particular non-function operand is. All we care is the particular ordering
+of the sequence. So let us make a small adjustment to our definition. Not only
+are we going to curry our functions again, we will abstract away wherever we
+see
 
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
