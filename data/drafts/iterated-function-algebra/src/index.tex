@@ -861,6 +861,30 @@ Using our older notation of two operands to indicate iteration, we have,
     \theta(x,n) = \alpha^n \cdot x + \sum_{i=0}^{n-1} \alpha^i \cdot \beta
 \end{equation}
 
+Search your feelings; you will know it to be true. This closed-form contains
+much information, perhaps more than I know what to do with at the moment. What
+follows are some informal observations about the form. First, there are two
+terms. This is a consequence of the fact that we are using two operands and
+that none of the terms are exponentiation. Exponents would change the degree of
+the. A singular monomial of one degree as an operator says to not change the
+degree. The coefficient does however become multiplied as a result of the
+iteration and thus achieves some degree of exponentiation but the variable is
+not affected.
+
+There is a isomorphism for each term once iterated back to the original term.
+We can track what the term is symbolically as we iterated closer and closer to
+the end state. For the monomial of degree 1, the change comes from the
+coefficient being exponentiated by itself. In terms of a recipe for
+computation, function as a verb, there is no "instruction" in the polynomial to
+change the degree of the polynomial.
+
+Before we any more, we should compare this to a higher order monomial. Let us
+study the following.
+
+\begin{equation}
+    \theta(x,n) = \beta \cdot x^\alpha
+\end{equation}
+
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
     \item Is this a viable approach to the problem of iterated functions?
