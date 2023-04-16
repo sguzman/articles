@@ -567,6 +567,7 @@ Now here comes the real magic. Here it is.
 
 \begin{equation}
     \pi(i) = \mathbb{O}_{i=0}^{n_i} \pi(i-1)
+    \label{eq:pi-reduc}
 \end{equation}
 
 This equation is my contribution. Let me explain the vague terms and then I
@@ -674,6 +675,89 @@ denouement to our dilemma.
 
 \begin{equation}
     \pi_1(0) \circ \pi_2(0) \circ \dots \circ \pi_{m-1}(0) \circ \pi_m(0)
+\end{equation}
+
+Using subscript to properly index the function, they can be safely ignored.
+What we have done is the final composition of a polynomial with multiplication
+and addition only. Even though we have only referenced two different types of
+functions, the technique we used to reduce a function of $\pi(1)$ to $\pi(0)$
+can be applied to any function $\pi(i), \quad i \in \mathbb{N} \land i > 0$.
+Given a function $\pi(i)$, we can reduce it to $\pi(i-1)$ by \ref{eq:pi-reduc}.
+Any function can be reduced to a function of $\pi(0)$.
+
+That is quite a quaint development but I rather not have to convert all
+functions to $\pi(0)$ before I can compute the final expression. Much to
+unwieldy and for a algebraic technique, it leaves a lot to be desired. Instead,
+lets focus on what concession we can make to extract a proper reordering to
+move around immiscible terms.
+
+Why should we want this? Well, naively our intuition is guiding us towards
+combining like terms so that the final operation is is sequenced by function.
+First we compute all the functions of $\pi(1)$, then all the functions of
+$\pi(0)$, and so on. Given our propensity to prefer an ordering that coincides
+with our intuition, it is rather fortunate that the gods of algebra posit a
+sort of rank ordering for execution. We compute the "larger" $\pi(i)$ first and
+then the "smaller" $\pi(i-1)$, and so on. If we had the larger $\pi(2)$,
+corresponding to exponentiation, we would strive as result of manipulating our
+algebra to compute it and then passing the result to the smaller $\pi(1)$.
+Naturally this is what we get.
+
+Let's say we had the following polynomial,
+
+\begin{equation}
+    f(x) = 2 \cdot x^2 + 2 \cdot x + 1
+\end{equation}
+
+The previous paragraph should narrowed down our perspective to polynomials as
+computation. More Specifically, we can think of polynomial as rank-ordered
+computation of $\pi(i) \quad i \in {0,1,2} $, and so on. The rank ordering This
+corresponds to computing all $\pi(2)$ regardless of where they appear in the
+expression. Of course, given that we are working with polynomials, we know
+quite clearly where all the $\pi(2)$ are. But the point of this exercise is
+that their order in situ the expression does not matter. It is their rank
+ordering that matters. While I lack further justification for why this should
+be the case, there is something seductive about executing the "larger".
+functions first.
+
+Before we continue, let me justify the rank order computation. A rich field of
+study is the generalization of the function. While we can indeed maintain that
+a function $z(x), \quad x \in \mathbb{R}$ is a function of a single real
+variable, we not limited by our own pronouncement. What we decide is
+exclusively left to our own prerogative and what we can do is to our
+imagination. One can imagine the operand fed to function as some unprocessed,
+abstract, amorphous object. All that is needed for $z(x)$ to be valid for an
+algebraic object is that the operational semantics. And since we are the
+arbiters of all things definitions, we can easily construct a valid
+interpretations for our own purposes. Now assuming that $z(x)$ is a polynomial,
+we can create a valid interpretation for objects other than numbers. As
+mentioned before, there already is a field of study that has capitalized on
+this opportunity. Some canonical objects that have studied are matrices,
+vectors, tensors, functions, operators and so on. The amorphous argument is
+then fed to conveyor belt of operations. While this is a deviation from our
+study, a satisfying symbolic sentence that more or less captures the essence of
+this intuition is the following.
+
+\begin{equation}
+    z(x) = \alpha_0 \cdot \pi(0) + \alpha_1 \cdot \pi(1) + \alpha_2 \cdot \pi(2)
+\end{equation}
+
+In a perfect world, all operators would be commutative and the forthwith
+declarations of involved operators would be followed with a simple linear
+algebraic expression that impresses the vector space of computation. Alas, we
+do not reside in the perfect paradise quite yet.
+
+Back to our polynomial operator. Ignoring the specific number of invocations
+for each of the $\pi(i)$ functions, we can write the following expression to
+specify the ordering of the computation.
+
+\begin{equation}
+    f(x) = \pi(0) \circ \pi(1) \circ \pi(2)
+\end{equation}
+
+Expressed using our composition summation notation, we can write the following
+
+\begin{equation}
+    f(x) = \mathbb{O}_{i=2}^{0} \pi(i)
 \end{equation}
 
 \section{Suggested Points of Departure for Future Research}
