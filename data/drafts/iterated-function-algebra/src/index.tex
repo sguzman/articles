@@ -760,6 +760,38 @@ Expressed using our composition summation notation, we can write the following
     f(x) = \mathbb{O}_{i=2}^{0} \pi(i)
 \end{equation}
 
+This expression terminates our study of the symbolic algebraic expression. We
+must return to see how if we can derive further algebraic rules for
+computational primitives. Again, we want to combine like terms. Let's start
+with a simple polynomial.
+
+\begin{equation}
+    f(x) = 2 \cdot x + 1
+\end{equation}
+
+What would the iterative composition of this function look like. The following
+outlines computing the iteration of $f(x)$ for 1 times.
+
+\begin{equation}
+    f(x) \circ f(x)
+\end{equation}
+
+\begin{equation}
+    f(x) \circ (2 \cdot x + 1)
+\end{equation}
+
+\begin{equation}
+    (2 \cdot x + 1) \circ (2 \cdot x + 1)
+\end{equation}
+
+\begin{equation}
+    2 \cdot (2 \cdot x + 1)
+\end{equation}
+
+\begin{equation}
+    4 \cdot x + 2
+\end{equation}
+
 \section{Suggested Points of Departure for Future Research}
 \begin{enumerate}
     \item Is this a viable approach to the problem of iterated functions?
