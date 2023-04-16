@@ -785,11 +785,80 @@ outlines computing the iteration of $f(x)$ for 1 times.
 \end{equation}
 
 \begin{equation}
-    2 \cdot (2 \cdot x + 1)
+    2 \cdot (2 \cdot x + 1) + 1
 \end{equation}
 
 \begin{equation}
-    4 \cdot x + 2
+    4 \cdot x + 3
+\end{equation}
+
+A function as both noun and verb is indeed the site contention. Thankfully, the
+simplicity of this polynomial allows us to derive a single iteration relative
+easy. Since there are no powers in this expression, any iteration is
+symbolically a function of addition and multiplication. What would 2 iterations
+produce?
+
+\begin{equation}
+    f(x) \circ f(x) \circ f(x)
+\end{equation}
+
+\begin{equation}
+    f(x) \circ (2 \cdot x + 1) \circ f(x)
+\end{equation}
+
+\begin{equation}
+    (2 \cdot x + 1) \circ (2 \cdot x + 1) \circ f(x)
+\end{equation}
+
+\begin{equation}
+    ( 4 \cdot x + 3) \circ f(x)
+\end{equation}
+
+\begin{equation}
+    ( 4 \cdot x + 3) \circ (2 \cdot x + 1)
+\end{equation}
+
+\begin{equation}
+    4 \cdot (2 \cdot x + 1) + 3
+\end{equation}
+
+\begin{equation}
+    8 \cdot x + 7
+\end{equation}
+
+While pursuing this example to its full logical conclusion is a bit tedious, it
+is demonstrative of a simple pattern pertaining to our choice of polynomial.
+The coefficient for the leading term for the nth iteration is $2^n$. This makes
+sense since it leads the expansion of any iteration. Any operand inserted into
+the polynomial, including another function, will always be multiplied by $2$
+first. The next term, $1$, is the constant term. In this polynomial, we have a
+simple number acting as the next leading degree of the polynomial. In other
+more complicated examples, we can imagine the another variable appearing and
+complicating the story somewhat. However, the logic I am describing still
+holds. Thus, the constant term for the nth iteration would be $2^n - 1$.
+
+What even this simple example demonstrates is that any algebraic object, in
+this case a polynomial, can act as a verb and a noun. Iteration of a polynomial
+renders out the interpretation of the object as necessary. Iteration is the
+verb operator acting on the noun operator, wherein the verb and the noun are
+the same object. It is telling that the degree does not change for our example
+across iterations. The nth iteration is give by,
+
+\begin{equation}
+    f_1(x) \circ \cdots \circ f_n(x) =  2^n \cdot x + (2^n - 1)
+\end{equation}
+
+Now let's transmogrify our polynomial into a more general version of a first
+degree polynomial. Let's take,
+
+\begin{equation}
+    \theta(x) = \alpha \cdot x + \beta
+\end{equation}
+
+Using our older notation of two operands to indicate iteration, we have,
+
+\begin{equation}
+    \theta(x,n) = \alpha^n \cdot x + \sum_{i=0}^{n-1} \alpha^i \cdot \beta
 \end{equation}
 
 \section{Suggested Points of Departure for Future Research}
