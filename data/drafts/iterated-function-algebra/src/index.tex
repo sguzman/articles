@@ -861,6 +861,10 @@ Using our older notation of two operands to indicate iteration, we have,
     \theta(x,n) = \alpha^n \cdot x + \sum_{i=0}^{n-1} \alpha^i \cdot \beta
 \end{equation}
 
+\begin{equation}
+    \theta(x,n) = \alpha^n \cdot x + \frac{a^n-1}{a-1} \cdot \beta
+\end{equation}
+
 Search your feelings; you will know it to be true. This closed-form contains
 much information, perhaps more than I know what to do with at the moment. What
 follows are some informal observations about the form. First, there are two
@@ -882,10 +886,84 @@ Before we any more, we should compare this to a higher order monomial. Let us
 study the following.
 
 \begin{equation}
-    \theta(x,n) = \beta \cdot x^\alpha
+    \epsilon(x) = \beta \cdot x^\alpha
 \end{equation}
 
+The iterated closed-form of n iterations is given by,
+
+\begin{equation}
+    \epsilon(x,n) = \beta^{\frac{a^n-1}{a-1}} \cdot x^{\alpha^n}
+\end{equation}
+
+Hmm. Our suspicions seem to be justified. There is some semblance of
+equivalency that transcends the particular choice of polynomial. While the
+degree is affected for sure, the general relation in structure of application
+of operations is maintained. Let us manipulate symbolically the different
+polynomial to our stand $\pi$ notation and see if we can tease out any
+similarity.
+
+\begin{equation}
+    \theta(x) = \pi(0)(\pi(1)(x, \alpha), \beta)
+\end{equation}
+
+\begin{equation}
+    \theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{a^n-1}{a-1}))
+\end{equation}
+
+And now the second.
+
+\begin{equation}
+    \epsilon(x) = \pi(1)(\pi(2)(x, \alpha), \beta)
+\end{equation}
+
+\begin{equation}
+    \epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n,), \pi(2)(\beta, \frac{a^n-1}{a-1}))
+\end{equation}
+
+I chose to ignore some of the terms in my symbolic manipulation. I did this in
+order to highlight the similarities between the two closed-forms of the
+iterations. I also moved terms around where the commutativity of the operator
+allows. The similarities should be shouting out for analysis. Let's now put
+them together to better understand the relationship between the two.
+
+\begin{align}
+    \theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{a^n-1}{a-1})) \notag \\
+    \epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n,), \pi(2)(\beta, \frac{a^n-1}{a-1})) \notag
+\end{align}
+
+We even have the same terms being operated. The pattern seems to be "upgrading"
+all of our operations. The key insight is that both $\theta$ and $\epsilon$
+repreesnt the same "type" of operation sequence. The only difference is that
+$\epsilon$ is an "upgraded" version of $\theta$. And it is upgraded by 1. This
+means whatever operations we find in $\theta$, we add one to the index to get
+the next rank operation. The is the genius of the syntactic approach. It is
+that nothing but ordering separates the operations that we see in a polynomial.
+
+While I will not go into further detail here, I believe this to be fertile
+ground for future research. In solving the problem of iterated functions using
+my syntax, I have solved it for all thusly situated operations. The general
+form of the closed-form solution given the two cases I have presented here is
+as follows.
+
+\begin{equation}
+    \zeta(x,n) = \pi(i)(\pi(i+1)(x, \alpha^n,), \pi(i+1)(\beta, \frac{a^n-1}{a-1}))
+\end{equation}
+
+I believe their to be general forms for polynomials of larger degree and of
+more complexity. What result yields is that iteration and discovering the
+closed-form for such functions is a matter of symbolic and syntactic analysis.
+There is no need to resort reasoning about the semantics of what the operations
+capture. All that is needed is the particular relation of each operation to
+every other operation and subsequent application thereof.
+
+And thus do I conclude my presentation. I hope you have enjoyed it as much as I
+have.
+
 \section{Suggested Points of Departure for Future Research}
+For any brave souls wishing to further this line of research, first and
+foremost, God help you. Secondly, the following are some concerns that may be
+addressed in content by future endeavors.
+
 \begin{enumerate}
     \item Is this a viable approach to the problem of iterated functions?
     \item Is there any counter example which demonstrates that this approach does not
