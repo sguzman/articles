@@ -22,3 +22,4 @@ Drafts for treatises that I am working on
 - [ ] Super axiom and the axiom of choice
 - [ ] I Dream of Femininity: Understanding the Phenomology of Transgenderism
 - [ ] Communism Transcended
+- [ ] 1 as information compression ratio for derivative algebraic objects
