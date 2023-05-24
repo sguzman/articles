@@ -5,7 +5,7 @@ Drafts for treatises that I am working on
 - [x] truth as a process
 - [X] What is a Progressive Institution
 - [X] What is in a book
-- [ ] Syntax of Closed Form Polynomial Iteration
+- [X] Syntax of Closed Form Polynomial Iteration
 - [ ] interpration-agnostic interpretation of algebraic equations
 - [ ] infinity as intractibility of domain specific toolset
 - [ ] non-naive interpretation of recursion to offer halting-proof encoding of infinite recursion
@@ -23,3 +23,5 @@ Drafts for treatises that I am working on
 - [ ] I Dream of Femininity: Understanding the Phenomology of Transgenderism
 - [ ] Communism Transcended
 - [ ] 1 as information compression ratio for derivative algebraic objects
+- [ ] death by manager
+- [ ] Objects that contain their own pedagogy
