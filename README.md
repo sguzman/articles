@@ -25,3 +25,4 @@ Drafts for treatises that I am working on
 - [ ] 1 as information compression ratio for derivative algebraic objects
 - [ ] death by manager
 - [ ] Objects that contain their own pedagogy
+- [ ] Applying the theory of semigroups of bounded linear operators to the collatz conjecture
