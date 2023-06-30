@@ -26,3 +26,4 @@ Drafts for treatises that I am working on
 - [ ] death by manager
 - [ ] Objects that contain their own pedagogy
 - [ ] Applying the theory of semigroups of bounded linear operators to the collatz conjecture
+- [ ] Critical Math theory: non-marxist, anti-bazaar outlook, pro-pedagogical, anti-mythological
