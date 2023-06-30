@@ -28,3 +28,4 @@ Drafts for treatises that I am working on
 - [ ] Applying the theory of semigroups of bounded linear operators to the collatz conjecture
 - [ ] Critical Math theory: non-marxist, anti-bazaar outlook, pro-pedagogical, anti-mythological
 - [ ] Mathematics by trinkets vs Mathematics by Industrial Use
+- [ ] Exp[x]== x^(x/Log[x])
