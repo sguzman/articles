@@ -30,3 +30,4 @@ Drafts for treatises that I am working on
 - [ ] Mathematics by trinkets vs Mathematics by Industrial Use
 - [ ] Exp[x]== x^(x/Log[x])
 - [ ] Interpretating mathematic results narrowly vs. Unbounded expansive interpretations
+- [ ] Innovation ennervates more innovation by establishing as a platform speculative research for future researchers to scaffold off of
