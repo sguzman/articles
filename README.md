@@ -32,3 +32,4 @@ Drafts for treatises that I am working on
 - [ ] Interpretating mathematic results narrowly vs. Unbounded expansive interpretations
 - [ ] Innovation ennervates more innovation by establishing as a platform speculative research for future researchers to scaffold off of
 - [ ] Using number of open math problems as the strength of current formalisms
+- [ ] Predicting the speculative turn of mathematics given competition from computer science that exclusively focuses on utility and function
