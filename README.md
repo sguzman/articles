@@ -34,3 +34,4 @@ Drafts for treatises that I am working on
 - [ ] Using number of open math problems as the strength of current formalisms
 - [ ] Predicting the speculative turn of mathematics given competition from computer science that exclusively focuses on utility and function
 - [ ] Mathematics as an anti-normal science in the thomas kuhn sense
+- [ ] Symbol fatigue and math anxiety
