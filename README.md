@@ -45,3 +45,4 @@ Drafts for treatises that I am working on
 - [ ] Parasocial relationships in context: what can replace parasocial relationships?
 - [ ] "More Left than you": Understanding leftist praxis
 - [ ] Enumerating the domains and singleton instances of the contradiction in progressive politics in terms of expectations and actual outcomes
+- [ ] Understanding Wokeness by putting it in context
