@@ -49,3 +49,7 @@ Drafts for treatises that I am working on
 - [ ] How Jerma985 interwove himself into the fabric of internet lore
 - [ ] Understanding Jerma's and Ster's relationship
 - [ ] What is the Left?
+- [ ] Outlining the contours of the utopia
+- [ ] Utopic lore: battling boredom
+- [ ] Boredom as the pre-eminent concern of liberal societies
+- [ ] The inescapability of the hedonism treadmill
