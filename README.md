@@ -46,3 +46,5 @@ Drafts for treatises that I am working on
 - [ ] "More Left than you": Understanding leftist praxis
 - [ ] Enumerating the domains and singleton instances of the contradiction in progressive politics in terms of expectations and actual outcomes
 - [ ] Understanding Wokeness by putting it in context
+- [ ] How Jerma985 interwove himself into the fabric of internet lore
+- [ ] Understanding Jerma's and Ster's relationship
