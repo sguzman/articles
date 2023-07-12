@@ -39,3 +39,5 @@ Drafts for treatises that I am working on
 - [ ] Critical Progress Theory
 - [ ] Critical Progressive Theory
 - [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept
+- [ ] The problem with "Win at all Costs" politics
+- [ ] Endangering the Utopia by using Marxist Praxis
