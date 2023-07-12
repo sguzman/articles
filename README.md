@@ -43,3 +43,5 @@ Drafts for treatises that I am working on
 - [ ] Endangering the Utopia by using Marxist Praxis
 - [ ] Balancing the Trade-offs of liberal sexual attitudes vs traditional attitudes in terms of women's safety
 - [ ] Parasocial relationships in context: what can replace parasocial relationships?
+- [ ] "More Left than you": Understanding leftist praxis
+- [ ] Enumerating the domains and singleton instances of the contradiction in progressive politics in terms of expectations and actual outcomes
