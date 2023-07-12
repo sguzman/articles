@@ -41,3 +41,4 @@ Drafts for treatises that I am working on
 - [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept
 - [ ] The problem with "Win at all Costs" politics
 - [ ] Endangering the Utopia by using Marxist Praxis
+- [ ] Balancing the Trade-offs of liberal sexual attitudes vs traditional attitudes in terms of women's safety
