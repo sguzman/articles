@@ -38,3 +38,4 @@ Drafts for treatises that I am working on
 - [ ] Symbol fatigue and math anxiety
 - [ ] Critical Progress Theory
 - [ ] Critical Progressive Theory
+- [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept
