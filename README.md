@@ -37,3 +37,4 @@ Drafts for treatises that I am working on
 - [ ] Mathematics as an anti-normal science in the thomas kuhn sense
 - [ ] Symbol fatigue and math anxiety
 - [ ] Critical Progress Theory
+- [ ] Critical Progressive Theory
