@@ -42,3 +42,4 @@ Drafts for treatises that I am working on
 - [ ] The problem with "Win at all Costs" politics
 - [ ] Endangering the Utopia by using Marxist Praxis
 - [ ] Balancing the Trade-offs of liberal sexual attitudes vs traditional attitudes in terms of women's safety
+- [ ] Parasocial relationships in context: what can replace parasocial relationships?
