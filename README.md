@@ -48,3 +48,4 @@ Drafts for treatises that I am working on
 - [ ] Understanding Wokeness by putting it in context
 - [ ] How Jerma985 interwove himself into the fabric of internet lore
 - [ ] Understanding Jerma's and Ster's relationship
+- [ ] What is the Left?
