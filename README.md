@@ -53,3 +53,4 @@ Drafts for treatises that I am working on
 - [ ] Utopic lore: battling boredom
 - [ ] Boredom as the pre-eminent concern of liberal societies
 - [ ] The inescapability of the hedonism treadmill
+- [ ] Reduced disgust sensitivy in asiatic cultures, defined by narrow genomes
