@@ -55,3 +55,4 @@ Drafts for treatises that I am working on
 - [ ] The inescapability of the hedonism treadmill
 - [ ] Reduced disgust sensitivy in asiatic cultures, defined by narrow genomes
 - [ ] Tolerable dysfunction as political praxis: democracy and neo-liberalism as "good enough" for now but eyeing innovative improvements
+- [ ] What a genius do: studying personal behaviorial habits as a mark of genius
