@@ -59,3 +59,4 @@ Drafts for treatises that I am working on
 - [ ] How to measure the impact of speculative volumes on security prices
 - [ ] Rumor-proof finances through comprehensive transparency
 - [ ] Hostile ignorance. Weaponizing silence for political currency. Example: Communists never undertaking a systematic analysis of the fall of the USSR
+- [ ] Chinese Chauvanism and its detrimental affect on international diplomacy
