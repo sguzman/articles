@@ -6,6 +6,8 @@ Drafts for treatises that I am working on
 - [X] What is a Progressive Institution
 - [X] What is in a book
 - [X] Syntax of Closed Form Polynomial Iteration
+- [X] death by manager
+- [X] Aggression as Strategic Iteration
 - [ ] interpration-agnostic interpretation of algebraic equations
 - [ ] infinity as intractibility of domain specific toolset
 - [ ] non-naive interpretation of recursion to offer halting-proof encoding of infinite recursion
@@ -23,7 +25,6 @@ Drafts for treatises that I am working on
 - [ ] I Dream of Femininity: Understanding the Phenomology of Transgenderism
 - [ ] Communism Transcended
 - [ ] 1 as information compression ratio for derivative algebraic objects
-- [X] death by manager
 - [ ] Objects that contain their own pedagogy
 - [ ] Applying the theory of semigroups of bounded linear operators to the collatz conjecture
 - [ ] Critical Math theory: non-marxist, anti-bazaar outlook, pro-pedagogical, anti-mythological
@@ -35,3 +36,28 @@ Drafts for treatises that I am working on
 - [ ] Predicting the speculative turn of mathematics given competition from computer science that exclusively focuses on utility and function
 - [ ] Mathematics as an anti-normal science in the thomas kuhn sense
 - [ ] Symbol fatigue and math anxiety
+- [ ] Critical Progress Theory
+- [ ] Critical Progressive Theory
+- [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept
+- [ ] The problem with "Win at all Costs" politics
+- [ ] Endangering the Utopia by using Marxist Praxis
+- [ ] Balancing the Trade-offs of liberal sexual attitudes vs traditional attitudes in terms of women's safety
+- [ ] Parasocial relationships in context: what can replace parasocial relationships?
+- [ ] "More Left than you": Understanding leftist praxis
+- [ ] Enumerating the domains and singleton instances of the contradiction in progressive politics in terms of expectations and actual outcomes
+- [ ] Understanding Wokeness by putting it in context
+- [ ] How Jerma985 interwove himself into the fabric of internet lore
+- [ ] Understanding Jerma's and Ster's relationship
+- [ ] What is the Left?
+- [ ] Outlining the contours of the utopia
+- [ ] Utopic lore: battling boredom
+- [ ] Boredom as the pre-eminent concern of liberal societies
+- [ ] The inescapability of the hedonism treadmill
+- [ ] Reduced disgust sensitivy in asiatic cultures, defined by narrow genomes
+- [ ] Tolerable dysfunction as political praxis: democracy and neo-liberalism as "good enough" for now but eyeing innovative improvements
+- [ ] What a genius do: studying personal behaviorial habits as a mark of genius
+- [ ] How to measure the impact of speculative volumes on security prices
+- [ ] Rumor-proof finances through comprehensive transparency
+- [ ] Hostile ignorance. Weaponizing silence for political currency. Example: Communists never undertaking a systematic analysis of the fall of the USSR
+- [ ] Chinese Chauvanism and its detrimental affect on international diplomacy
+- [ ] Manager Chauvanism
