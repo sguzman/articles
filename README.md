@@ -62,3 +62,4 @@ Drafts for treatises that I am working on
 - [ ] Chinese Chauvanism and its detrimental affect on international diplomacy
 - [ ] Manager Chauvanism
 - [ ] Consumption as the small death
+- [ ] Muted Sensory Experience of Schizoid Patients
