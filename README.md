@@ -61,3 +61,4 @@ Drafts for treatises that I am working on
 - [ ] Hostile ignorance. Weaponizing silence for political currency. Example: Communists never undertaking a systematic analysis of the fall of the USSR
 - [ ] Chinese Chauvanism and its detrimental affect on international diplomacy
 - [ ] Manager Chauvanism
+- [ ] Consumption as the small death
