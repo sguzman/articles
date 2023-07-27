@@ -63,3 +63,4 @@ Drafts for treatises that I am working on
 - [ ] Manager Chauvanism
 - [ ] Consumption as the small death
 - [ ] Muted Sensory Experience of Schizoid Patients
+- [ ] Political Dynamics: Studying and categorizing political ideology and innovations
