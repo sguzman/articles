@@ -68,3 +68,4 @@ Drafts for treatises that I am working on
 - [ ] Histrionics as cultural praxis
 - [ ] Satire is no more: satire as naked, unabashed continuation of polemics by histrionic means
 - [ ] Political topologies and the politics of institutional capture
+- [ ] "Socialism for the rich": Understanding the micro-phenomena of socialism by subsidy
