@@ -64,3 +64,4 @@ Drafts for treatises that I am working on
 - [ ] Consumption as the small death
 - [ ] Muted Sensory Experience of Schizoid Patients
 - [ ] Political Dynamics: Studying and categorizing political ideology and innovations
+- [ ] Authoritarianism as the norm in mathematical manipulations
