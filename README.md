@@ -65,6 +65,9 @@ Drafts for treatises that I am working on
 - [ ] Muted Sensory Experience of Schizoid Patients
 - [ ] Political Dynamics: Studying and categorizing political ideology and innovations
 - [ ] Authoritarianism as the norm in mathematical manipulations
+- [ ] Politic Progress by Conspiracy
+- [ ] Conspiracies we can see: hidden power plays
+- [ ] Conspiratorial Designs as the norm
 - [ ] Histrionics as cultural praxis
 - [ ] Satire is no more: satire as naked, unabashed continuation of polemics by histrionic means
 - [ ] Political topologies and the politics of institutional capture
