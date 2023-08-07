@@ -73,3 +73,4 @@ Drafts for treatises that I am working on
 - [ ] Political topologies and the politics of institutional capture
 - [ ] "Socialism for the rich": Understanding the micro-phenomena of socialism by subsidy
 - [ ] Fascism by practice vs Fascism by theory
+- [ ] Grievance mongering as political praxis
