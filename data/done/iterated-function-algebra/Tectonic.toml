@@ -1,7 +1,0 @@
-[doc]
-name = 'iterated-function-algebra'
-bundle = 'https://data1.fullyjustified.net/tlextras-2022.0r0.tar'
-
-[[output]]
-name = 'iterated-function-algebra'
-type = 'pdf'
