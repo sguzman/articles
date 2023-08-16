@@ -61,3 +61,16 @@ Drafts for treatises that I am working on
 - [ ] Hostile ignorance. Weaponizing silence for political currency. Example: Communists never undertaking a systematic analysis of the fall of the USSR
 - [ ] Chinese Chauvanism and its detrimental affect on international diplomacy
 - [ ] Manager Chauvanism
+- [ ] Consumption as the small death
+- [ ] Muted Sensory Experience of Schizoid Patients
+- [ ] Political Dynamics: Studying and categorizing political ideology and innovations
+- [ ] Authoritarianism as the norm in mathematical manipulations
+- [ ] Politic Progress by Conspiracy
+- [ ] Conspiracies we can see: hidden power plays
+- [ ] Conspiratorial Designs as the norm
+- [ ] Histrionics as cultural praxis
+- [ ] Satire is no more: satire as naked, unabashed continuation of polemics by histrionic means
+- [ ] Political topologies and the politics of institutional capture
+- [ ] "Socialism for the rich": Understanding the micro-phenomena of socialism by subsidy
+- [ ] Fascism by practice vs Fascism by theory
+- [ ] Grievance mongering as political praxis
