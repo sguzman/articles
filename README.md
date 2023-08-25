@@ -75,3 +75,5 @@ Drafts for treatises that I am working on
 - [ ] Fascism by practice vs Fascism by theory
 - [ ] Grievance mongering as political praxis
 - [ ] Human Chauvanism: A theory
+- [ ] Producer Market vs. Consumer Market
+- [ ] Markets defined by their audience
