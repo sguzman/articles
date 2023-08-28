@@ -79,3 +79,7 @@ Drafts for treatises that I am working on
 - [ ] Markets defined by their audience
 - [ ] Marxist Mathematics
 - [ ] Recessive genes meeting as survival of genetic unit across adversarial and hostile terrain
+- [ ] Culture as built off of shared unsatiated phenotypes with no biological resolution
+- [ ] Technology as culture
+- [ ] Technology as gap-filling of phenotype
+- [ ] Cultural technologies
