@@ -74,3 +74,6 @@ Drafts for treatises that I am working on
 - [ ] "Socialism for the rich": Understanding the micro-phenomena of socialism by subsidy
 - [ ] Fascism by practice vs Fascism by theory
 - [ ] Grievance mongering as political praxis
+- [ ] Human Chauvanism: A theory
+- [ ] Producer Market vs. Consumer Market
+- [ ] Markets defined by their audience
