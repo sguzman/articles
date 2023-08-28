@@ -86,3 +86,4 @@ Drafts for treatises that I am working on
 - [ ] Birth should be voluntary
 - [ ] Cultural progression as formal indeterminism by design
 - [ ] Bounded feminism vs. Unbounded feminism
+- [ ] Working Class Aristocracy
