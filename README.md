@@ -77,3 +77,4 @@ Drafts for treatises that I am working on
 - [ ] Human Chauvanism: A theory
 - [ ] Producer Market vs. Consumer Market
 - [ ] Markets defined by their audience
+- [ ] Marxist Mathematics
