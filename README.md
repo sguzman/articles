@@ -83,3 +83,4 @@ Drafts for treatises that I am working on
 - [ ] Technology as culture
 - [ ] Technology as gap-filling of phenotype
 - [ ] Cultural technologies
+- [ ] Birth should be voluntary
