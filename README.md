@@ -84,3 +84,4 @@ Drafts for treatises that I am working on
 - [ ] Technology as gap-filling of phenotype
 - [ ] Cultural technologies
 - [ ] Birth should be voluntary
+- [ ] Cultural progression as formal indeterminism by design
