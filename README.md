@@ -78,3 +78,4 @@ Drafts for treatises that I am working on
 - [ ] Producer Market vs. Consumer Market
 - [ ] Markets defined by their audience
 - [ ] Marxist Mathematics
+- [ ] Recessive genes meeting as survival of genetic unit across adversarial and hostile terrain
