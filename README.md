@@ -87,3 +87,4 @@ Drafts for treatises that I am working on
 - [ ] Cultural progression as formal indeterminism by design
 - [ ] Bounded feminism vs. Unbounded feminism
 - [ ] Working Class Aristocracy
+- [ ] Socialist Pluralism
