@@ -88,3 +88,4 @@ Drafts for treatises that I am working on
 - [ ] Bounded feminism vs. Unbounded feminism
 - [ ] Working Class Aristocracy
 - [ ] Socialist Pluralism
+- [ ] Elite Progressivism vs. Proletarian Progressivism
