@@ -75,3 +75,19 @@ Drafts for treatises that I am working on
 - [ ] Fascism by practice vs Fascism by theory
 - [ ] Grievance mongering as political praxis
 - [ ] Human Chauvanism: A theory
+- [ ] Producer Market vs. Consumer Market
+- [ ] Markets defined by their audience
+- [ ] Marxist Mathematics
+- [ ] Recessive genes meeting as survival of genetic unit across adversarial and hostile terrain
+- [ ] Culture as built off of shared unsatiated phenotypes with no biological resolution
+- [ ] Technology as culture
+- [ ] Technology as gap-filling of phenotype
+- [ ] Cultural technologies
+- [ ] Birth should be voluntary
+- [ ] Cultural progression as formal indeterminism by design
+- [ ] Bounded feminism vs. Unbounded feminism
+- [ ] Working Class Aristocracy
+- [ ] Socialist Pluralism
+- [ ] Elite Progressivism vs. Proletarian Progressivism
+- [ ] Managerial Elitism as Fascism
+- [ ] Managerialism as Formalized Rent Seeking
