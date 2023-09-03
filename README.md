@@ -89,4 +89,5 @@ Drafts for treatises that I am working on
 - [ ] Working Class Aristocracy
 - [ ] Socialist Pluralism
 - [ ] Elite Progressivism vs. Proletarian Progressivism
-- [ ] Mangerial Elitism as Fascism
+- [ ] Managerial Elitism as Fascism
+- [ ] Managerialism as Formalized Rent Seeking
