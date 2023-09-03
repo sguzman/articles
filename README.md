@@ -89,3 +89,4 @@ Drafts for treatises that I am working on
 - [ ] Working Class Aristocracy
 - [ ] Socialist Pluralism
 - [ ] Elite Progressivism vs. Proletarian Progressivism
+- [ ] Mangerial Elitism as Fascism
