@@ -91,3 +91,4 @@ Drafts for treatises that I am working on
 - [ ] Elite Progressivism vs. Proletarian Progressivism
 - [ ] Managerial Elitism as Fascism
 - [ ] Managerialism as Formalized Rent Seeking
+- [ ] brain layout as computation modules and consciousness as another module
