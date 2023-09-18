@@ -92,3 +92,6 @@ Drafts for treatises that I am working on
 - [ ] Managerial Elitism as Fascism
 - [ ] Managerialism as Formalized Rent Seeking
 - [ ] brain layout as computation modules and consciousness as another module
+- [ ] Growth of the subjective world in the 20th century
+- [ ] Monarchism as totalitarianism in a subjective-dry world
+- [ ] No subjective mind prior to modernism
