@@ -95,3 +95,4 @@ Drafts for treatises that I am working on
 - [ ] Growth of the subjective world in the 20th century
 - [ ] Monarchism as totalitarianism in a subjective-dry world
 - [ ] No subjective mind prior to modernism
+- [ ] Charisma as resource-specific aggression
