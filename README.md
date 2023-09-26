@@ -96,3 +96,4 @@ Drafts for treatises that I am working on
 - [ ] Monarchism as totalitarianism in a subjective-dry world
 - [ ] No subjective mind prior to modernism
 - [ ] Charisma as resource-specific aggression
+- [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept Extended with Myth-at-Hand
