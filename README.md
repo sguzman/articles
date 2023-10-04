@@ -101,3 +101,10 @@ Drafts for treatises that I am working on
 - [ ] Identity politics as the new caste system
 - [ ] Conservative politics as preserving hierarchies
 - [ ] Calvacade of ever-more tyrannical managers
+- [ ] The Great Flattening: the fall of the our dear elites
+- [ ] The fall of the mangerial elite expert state
+- [ ] Debt is not the issue: forcing repayment is
+- [ ] Alternative debt: no repayment but virtual power accrues to the lender
+- [ ] Inflaming contradictions as political praxis
+- [ ] Contradiction of the expert state in the age of AI
+- [ ] Elite index: measuring the strength and entrenchment of the elite
