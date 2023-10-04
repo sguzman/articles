@@ -97,6 +97,12 @@ Drafts for treatises that I am working on
 - [ ] No subjective mind prior to modernism
 - [ ] Charisma as resource-specific aggression
 - [ ] Heidegger's Ready-to-hand vs. present-at-hand Concept Extended with Myth-at-Hand
+- [ ] Anti-cheat software and adversarial interfaces
+- [ ] Adversarial domains
+- [ ] Politics as elite competition and intrigue
+- [ ] Video game economies
+- [ ] Interconnectedness of video game economies
+- [ ] Real economy as summation of smaller economies
 - [ ] Fastened recursive anchor points
 - [ ] Identity politics as the new caste system
 - [ ] Conservative politics as preserving hierarchies
