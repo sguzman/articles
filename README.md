@@ -103,3 +103,7 @@ Drafts for treatises that I am working on
 - [ ] Video game economies
 - [ ] Interconnectedness of video game economies
 - [ ] Real economy as summation of smaller economies
+- [ ] Fastened recursive anchor points
+- [ ] Identity politics as the new caste system
+- [ ] Conservative politics as preserving hierarchies
+- [ ] Calvacade of ever-more tyrannical managers
