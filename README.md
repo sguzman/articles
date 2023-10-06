@@ -107,6 +107,14 @@ Drafts for treatises that I am working on
 - [ ] Identity politics as the new caste system
 - [ ] Conservative politics as preserving hierarchies
 - [ ] Calvacade of ever-more tyrannical managers
+- [ ] Economy as satisfying elite desires
+- [ ] Axie Infinity: Extractive software
+- [ ] Extractive economic regimes
+- [ ] Symbolic analysis and computational regimes
+- [ ] Computation regimes as semantic universes
+- [ ] Stock price movement as summation of all speculative regimes at play
+- [ ] Revolte against the rational
+- [ ] Rationalizing process as political praxis
 - [ ] The Great Flattening: the fall of the our dear elites
 - [ ] The fall of the mangerial elite expert state
 - [ ] Debt is not the issue: forcing repayment is
