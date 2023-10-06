@@ -114,3 +114,5 @@ Drafts for treatises that I am working on
 - [ ] Inflaming contradictions as political praxis
 - [ ] Contradiction of the expert state in the age of AI
 - [ ] Elite index: measuring the strength and entrenchment of the elite
+- [ ] Parasocial as a necessity
+- [ ] Semantic drift: the word itch (from intransitive to transitive) as an example
