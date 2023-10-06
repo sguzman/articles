@@ -115,3 +115,10 @@ Drafts for treatises that I am working on
 - [ ] Stock price movement as summation of all speculative regimes at play
 - [ ] Revolte against the rational
 - [ ] Rationalizing process as political praxis
+- [ ] The Great Flattening: the fall of the our dear elites
+- [ ] The fall of the mangerial elite expert state
+- [ ] Debt is not the issue: forcing repayment is
+- [ ] Alternative debt: no repayment but virtual power accrues to the lender
+- [ ] Inflaming contradictions as political praxis
+- [ ] Contradiction of the expert state in the age of AI
+- [ ] Elite index: measuring the strength and entrenchment of the elite
