@@ -124,3 +124,5 @@ Drafts for treatises that I am working on
 - [ ] Elite index: measuring the strength and entrenchment of the elite
 - [ ] Parasocial as a necessity
 - [ ] Semantic drift: the word itch (from intransitive to transitive) as an example
+- [ ] Neuron as a biological unit of computation
+- [ ] Neurons as computation in an adversarial environment
