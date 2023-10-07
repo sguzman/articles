@@ -126,3 +126,6 @@ Drafts for treatises that I am working on
 - [ ] Semantic drift: the word itch (from intransitive to transitive) as an example
 - [ ] Neuron as a biological unit of computation
 - [ ] Neurons as computation in an adversarial environment
+- [ ] Producer prices vs consumer prices
+- [ ] Producer purchasing power vs consumer purchasing power
+- [ ] Producer inflation vs consumer inflation
