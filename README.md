@@ -130,3 +130,4 @@ Drafts for treatises that I am working on
 - [ ] Producer purchasing power vs consumer purchasing power
 - [ ] Producer inflation vs consumer inflation
 - [ ] Research by headlines
+- [ ] Research by entries
