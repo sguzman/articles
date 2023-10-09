@@ -133,3 +133,6 @@ Drafts for treatises that I am working on
 - [ ] Research by headlines
 - [ ] Research by entries
 - [ ] Secular Jewish culture serving conservative Jewish interests vs secular Jewish culture serving secular, modern interests
+- [ ] Fascism as a competitive species of negative socialism
+- [ ] Judaic God as a metaphor for the Jewish people
+- [ ] Post-Leftism: Beyond socialism and capitalism
