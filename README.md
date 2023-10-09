@@ -123,3 +123,12 @@ Drafts for treatises that I am working on
 - [ ] Contradiction of the expert state in the age of AI
 - [ ] Elite index: measuring the strength and entrenchment of the elite
 - [ ] Taxes as a symbolic act
+- [ ] Parasocial as a necessity
+- [ ] Semantic drift: the word itch (from intransitive to transitive) as an example
+- [ ] Neuron as a biological unit of computation
+- [ ] Neurons as computation in an adversarial environment
+- [ ] Producer prices vs consumer prices
+- [ ] Producer purchasing power vs consumer purchasing power
+- [ ] Producer inflation vs consumer inflation
+- [ ] Research by headlines
+- [ ] Research by entries
