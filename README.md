@@ -132,3 +132,4 @@ Drafts for treatises that I am working on
 - [ ] Producer inflation vs consumer inflation
 - [ ] Research by headlines
 - [ ] Research by entries
+- [ ] Secular Jewish culture serving conservative Jewish interests vs secular Jewish culture serving secular, modern interests
