@@ -136,3 +136,9 @@ Drafts for treatises that I am working on
 - [ ] Fascism as a competitive species of negative socialism
 - [ ] Judaic God as a metaphor for the Jewish people
 - [ ] Post-Leftism: Beyond socialism and capitalism
+- [ ] Iterative speculation
+- [ ] Speculative horizon
+- [ ] Truth regimes
+- [ ] Truth regime entrenchment
+- [ ] Truth regime as an amalgamation of schools of thought
+- [ ] De-schooling truth regimes
