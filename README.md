@@ -148,3 +148,4 @@ Drafts for treatises that I am working on
 - [ ] Incremental topological microservices
 - [ ] Structural-fication of functional programming
 - [ ] Modern functional programming as a species of functional programming
+- [ ] Study of imposing structure on sets as Structure theory: from sets to hilbert spaces
