@@ -144,3 +144,7 @@ Drafts for treatises that I am working on
 - [ ] De-schooling truth regimes
 - [ ] Life of the organism as extension of ontogeny
 - [ ] Dependent type theory for safety: create array index type from array + Length type
+- [ ] Granular type theory: enabling granular type safety incrementally
+- [ ] Incremental topological microservices
+- [ ] Structural-fication of functional programming
+- [ ] Modern functional programming as a species of functional programming
