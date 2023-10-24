@@ -142,3 +142,5 @@ Drafts for treatises that I am working on
 - [ ] Truth regime entrenchment
 - [ ] Truth regime as an amalgamation of schools of thought
 - [ ] De-schooling truth regimes
+- [ ] Life of the organism as extension of ontogeny
+- [ ] Dependent type theory for safety: create array index type from array + Length type
