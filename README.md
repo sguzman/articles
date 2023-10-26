@@ -151,3 +151,7 @@ Drafts for treatises that I am working on
 - [ ] Study of imposing structure on sets as Structure theory: from sets to hilbert spaces
 - [ ] Numbers as evidence of computation
 - [ ] Reality as the computation layer of consciousness
+- [ ] Decentralized Socialism
+- [ ] Modeling chemical dynamics with lambda calculus
+- [ ] Modeling chemical structure with lambda calculus
+- [ ] Modeling chemical reactions with game of life
