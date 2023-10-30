@@ -155,3 +155,4 @@ Drafts for treatises that I am working on
 - [ ] Modeling chemical dynamics with lambda calculus
 - [ ] Modeling chemical structure with lambda calculus
 - [ ] Modeling chemical reactions with game of life
+- [ ] Masculinity in service of the feminine
