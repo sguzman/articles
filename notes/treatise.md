@@ -157,3 +157,6 @@ Drafts for treatises that I am working on
 - [ ] Modeling chemical reactions with game of life
 - [ ] Masculinity in service of the feminine
 - [ ] The topology of computation
+- [ ] The post-Marxist utopia
+- [ ] Marxism as the ideology that will consume liberalism
+- [ ] Elite Marxism
