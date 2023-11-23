@@ -27,4 +27,7 @@ The idea is that I want to stream myself reading.
 - Old newspapers
 - Archive org stuff
 - Project Gutenberg
-
+- Starslatecodex
+- Github meme lore
+- Internet lore
+- Youtube lore
