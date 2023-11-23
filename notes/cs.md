@@ -9,4 +9,4 @@ A list of topics in computer science that I wish to iterate on one day. I believ
 - Pre-runtime compile time vs Pre-written compile time
 - Using smart and comprehensive compiler to verify integrity of runetime process
 - Meta programming language environment for types
-- Type theoritcal environment to model the type dynamics of other programming languagesz``
+- Type theoritcal environment to model the type dynamics of other programming languages
