@@ -11,4 +11,20 @@ This file outlines the genre of textual content I would like to read. It is offe
 The idea is that I want to stream myself reading.
 
 ## Reading List
+
 - Books
+- Terms of Service
+- Privacy Policies
+- US Legal Papers
+- Wikipedia
+- Textbooks
+- Research Papers
+- Math journals
+- Research Journals
+- Math papers
+- Math textbooks
+- Bibles
+- Old newspapers
+- Archive org stuff
+- Project Gutenberg
+
