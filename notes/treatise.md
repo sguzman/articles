@@ -172,3 +172,5 @@ Drafts for treatises that I am working on
 - [ ] Elite chaunvanism
 - [ ] Elite Chauvanistic Register #1
 - [ ] Histrionic Polemic Register #1
+- [ ] Linguistic Pragmatic Register Theory
+- [ ] Linguistic Pragmatic Taxonomy
