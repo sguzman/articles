@@ -106,3 +106,8 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - UI 2D user artifacts as wishlist for mathematical tools
 - Scrolling on a subset of R^2
 - Scroll.fx function that can scroll a subset of R^2 like a scrollbar can
+- Multiplicative properties as local properties and additive properties as global properties
+- Taxonomy of useful math functions
+- Deterministic formalism for random phenomena
+- Achieving convergence of quantum mechanics and general relativity 
+- DeMorgan laws as percolation of global and local properties
