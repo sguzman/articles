@@ -160,3 +160,15 @@ Drafts for treatises that I am working on
 - [ ] The post-Marxist utopia
 - [ ] Marxism as the ideology that will consume liberalism
 - [ ] Elite Marxism
+- [ ] "Simp for thee but not for me": A study in game theoritical semiotics
+- [ ] Abstract game theory
+- [ ] Game theory applied to Academia Arena
+- [ ] Psychoticism and the creative process
+- [ ] Pscyhoticism and Neuroticism
+- [ ] Psychoticism and gender nonconformity
+- [ ] Schizoid tendencies
+- [ ] "The world will belong to us": Schizoid social dynamics in the long run
+- [ ] Psychotic echos in a topological space
+- [ ] Elite chaunvanism
+- [ ] Elite Chauvanistic Register #1
+- [ ] Histrionic Polemic Register #1
