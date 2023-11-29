@@ -174,3 +174,9 @@ Drafts for treatises that I am working on
 - [ ] Histrionic Polemic Register #1
 - [ ] Linguistic Pragmatic Register Theory
 - [ ] Linguistic Pragmatic Taxonomy
+- [ ] Charisma Theory
+- [ ] Proof Assistants as granular logical computation
+- [ ] Sound as delta stimuli; sight as continuous "on" stimuli
+- [ ] Analytic languages as rendering words to be more operational
+- [ ] Satire as anti-humor
+- [ ] Psychoanalysis as applied Psychological Chauvinism
