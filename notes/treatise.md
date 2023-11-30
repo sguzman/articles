@@ -176,7 +176,12 @@ Drafts for treatises that I am working on
 - [ ] Linguistic Pragmatic Taxonomy
 - [ ] Charisma Theory
 - [ ] Proof Assistants as granular logical computation
-- [ ] Sound as delta stimuli; sight as continuous "on" stimuli
+- [ ] Sound through ears as delta stimuli; sight through eyes as continuous "on" stimuli
 - [ ] Analytic languages as rendering words to be more operational
 - [ ] Satire as anti-humor
 - [ ] Psychoanalysis as applied Psychological Chauvinism
+- [ ] Success is their downfall: Forecasting downstream consequences of political unfeasible programs
+- [ ] Proper nouns with set-like semantics
+- [ ] Common nouns as anonymous entities
+- [ ] Nomadic Intellectualism
+- [ ] Sedentary Intellectualism
