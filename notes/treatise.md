@@ -160,3 +160,28 @@ Drafts for treatises that I am working on
 - [ ] The post-Marxist utopia
 - [ ] Marxism as the ideology that will consume liberalism
 - [ ] Elite Marxism
+- [ ] "Simp for thee but not for me": A study in game theoritical semiotics
+- [ ] Abstract game theory
+- [ ] Game theory applied to Academia Arena
+- [ ] Psychoticism and the creative process
+- [ ] Pscyhoticism and Neuroticism
+- [ ] Psychoticism and gender nonconformity
+- [ ] Schizoid tendencies
+- [ ] "The world will belong to us": Schizoid social dynamics in the long run
+- [ ] Psychotic echos in a topological space
+- [ ] Elite chaunvanism
+- [ ] Elite Chauvanistic Register #1
+- [ ] Histrionic Polemic Register #1
+- [ ] Linguistic Pragmatic Register Theory
+- [ ] Linguistic Pragmatic Taxonomy
+- [ ] Charisma Theory
+- [ ] Proof Assistants as granular logical computation
+- [ ] Sound through ears as delta stimuli; sight through eyes as continuous "on" stimuli
+- [ ] Analytic languages as rendering words to be more operational
+- [ ] Satire as anti-humor
+- [ ] Psychoanalysis as applied Psychological Chauvinism
+- [ ] Success is their downfall: Forecasting downstream consequences of political unfeasible programs
+- [ ] Proper nouns with set-like semantics
+- [ ] Common nouns as anonymous entities
+- [ ] Nomadic Intellectualism
+- [ ] Sedentary Intellectualism

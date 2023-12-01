@@ -1,7 +1,9 @@
 # Math Research
+
 A list of topics in mathematics that I have researched to some degree OR wish to research. Mind the aspirational tone
 
 ## Topics
+
 - Convolution with $e^{-x^2}$ as a _cursor_
 - Convolution $\int{e^{-x^2}f(x)(g(x-t))}dt$ as incremental application of function `f(x)` onto `g(x)` substrate
 - Cartesian plane as a binary switch board on some field
@@ -89,7 +91,7 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Treating all topological spaces as compact. Non-connected segments are considered addendum aggregate spaces nominally considered together
 - Mapping neighborhoods onto a chart then onto a topological space then tracking neighborhoods across homeomorphism
 - Neighborhoods preserved in turbulent flows
-- Measuring turbulence using measure of eucleadean operations
+- Measuring turbulence using measure of Euclidean operations
 - Nesting euclidean plane and operations into domain specific spaces
 - Linear homotopy as a semigroup of bounded linear operators
 - An infinite set contains itself in the same way a recursive function contains itself
@@ -107,3 +109,8 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - Scrolling on a subset of R^2
 - Scroll.fx function that can scroll a subset of R^2 like a scrollbar can
 - Encoding order-related information in object to achieve commutativity
+- Multiplicative properties as local properties and additive properties as global properties
+- Taxonomy of useful math functions
+- Deterministic formalism for random phenomena
+- Achieving convergence of quantum mechanics and general relativity 
+- DeMorgan laws as percolation of global and local properties
