@@ -106,3 +106,4 @@ A list of topics in mathematics that I have researched to some degree OR wish to
 - UI 2D user artifacts as wishlist for mathematical tools
 - Scrolling on a subset of R^2
 - Scroll.fx function that can scroll a subset of R^2 like a scrollbar can
+- Encoding order-related information in object to achieve commutativity
