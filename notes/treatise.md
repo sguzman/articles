@@ -185,3 +185,7 @@ Drafts for treatises that I am working on
 - [ ] Common nouns as anonymous entities
 - [ ] Nomadic Intellectualism
 - [ ] Sedentary Intellectualism
+- [ ] Pragmatic as the receiving end of a socially conscious semantic delivery and my register theory as the delivery mechanism
+- [ ] Intellectual scoping
+- [ ] Intellectual scoping as a sign of intellectual maturity
+- [ ] Culture warriors: In search of casus belli
