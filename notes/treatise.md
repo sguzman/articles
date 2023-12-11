@@ -189,3 +189,5 @@ Drafts for treatises that I am working on
 - [ ] Intellectual scoping
 - [ ] Intellectual scoping as a sign of intellectual maturity
 - [ ] Culture warriors: In search of casus belli
+- [ ] Incremental Utopia
+- [ ] Utopia achieved through incremental commutative utopic operators
