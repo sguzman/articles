@@ -1,0 +1,91 @@
+---
+title: "Aggression as Iteration Rate"
+subtitle: "A mathematical sketch of behavior as competing impulses, and aggression as strategic stickiness"
+slug: "aggression-as-iteration-rate"
+
+date: "2026-02-11"
+lang: "en"
+language: "English"
+
+author:
+  - "Salvador Guzman"
+creator:
+  - "Salvador Guzman"
+publisher: "Salvador Guzman"
+
+license: "CC0-1.0"
+rights: "CC0-1.0"
+
+type: "essay"
+format: "markdown"
+status: "draft"
+draft: true
+revision: "0.1"
+edition: ""
+
+description: "An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition."
+abstract: |-
+  This essay proposes a compact framework for analyzing behavior as a mathematical process: an organism hosts multiple biologically sourced impulses whose relative strengths vary with conditions, and whose total strength is normalized to 1. Within this setup, aggression is treated as strategic iteration - the persistence (or stickiness) of behavior toward a domain-specific success condition. Scarcity, competition, and avoidance of catastrophic fail states amplify aggressive behavior by increasing the dominance and urgency of relevant impulses. The essay also sketches how individual differences in aggression tolerance can shape available strategies and may be inherited across generations.
+
+categories:
+  - "behavior"
+  - "philosophy"
+  - "mathematics"
+  - "psychology"
+
+tags:
+  - "aggression"
+  - "strategy"
+  - "behavioral modeling"
+  - "impulses"
+  - "probability"
+  - "scarcity"
+  - "competition"
+  - "genetics"
+  - "phenotype"
+  - "extended phenotype"
+
+keywords:
+  - "behavior as impulses"
+  - "normalized impulse strength"
+  - "aggression as strategic iteration"
+  - "scarcity and aggression"
+  - "aggression tolerance inheritance"
+
+subject:
+  - "behavioral theory"
+subjects:
+  - "behavioral theory"
+  - "philosophy of mind"
+  - "mathematical modeling"
+
+identifier: "urn:slug:aggression-as-iteration-rate"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+epub-cover-image: "cover.png"
+epub_cover_image: "cover.png"
+
+toc: true
+toc-title: "Contents"
+toc-depth: 2
+number-sections: false
+
+epub-chapter-level: 1
+epub-title-page: false
+
+# Optional/unused in this piece (kept blank to match template vocabulary)
+dataset_id: ""
+plate_id: ""
+series: ""
+series-title: ""
+series-number: 0
+reference-section-title: ""
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+library_of_congress_classification: {}
+...
