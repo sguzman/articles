@@ -1,3 +1,65 @@
+---
+title: "The Tragedy of Formalism"
+linkTitle: "The Tragedy of Formalism"
+description: "Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding."
+summary: "Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a proposed algebra of iterated operations on polynomials via syntactic encoding."
+slug: "iterated-function-algebra"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: false
+type: "article"
+layout: "single"
+weight: 0
+categories:
+  - "Mathematics"
+  - "Philosophy of Mathematics"
+  - "Computation"
+tags:
+  - "formalism"
+  - "syntax"
+  - "computation"
+  - "polynomials"
+  - "iteration"
+  - "type signatures"
+  - "operators"
+keywords:
+  - "formalism"
+  - "Hilbert program"
+  - "intuitionism"
+  - "syntax"
+  - "provability"
+  - "lambda calculus"
+  - "combinatory logic"
+  - "type theory"
+  - "polynomials"
+  - "iteration"
+  - "closed form"
+  - "operator theory"
+  - "Godel numbering"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 # The Tragedy of Formalism
 
 The death of the formalism program was a necessary tragedy for the

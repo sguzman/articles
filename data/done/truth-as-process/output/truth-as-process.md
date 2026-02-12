@@ -1,3 +1,64 @@
+---
+title: "Truth as Process"
+linkTitle: "Truth as Process"
+description: "An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict."
+summary: "An essay arguing that the halting problem's paradox is partly a self-imposed constraint: demanding a point answer to a line-shaped process. It proposes treating truth as something that can be conferred by an evolving process rather than a single atomic verdict."
+slug: "truth-as-process"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: true
+type: "article"
+layout: "single"
+weight: 0
+categories:
+  - "philosophy of computation"
+  - "logic"
+  - "philosophy of mathematics"
+  - "epistemology"
+tags:
+  - "halting problem"
+  - "computability"
+  - "paradox"
+  - "axioms"
+  - "platonism"
+  - "tool-worship"
+  - "truth as process"
+  - "topology"
+  - "distributed systems"
+  - "CAP theorem"
+keywords:
+  - "halting problem"
+  - "computability"
+  - "paradox"
+  - "platonism"
+  - "axioms"
+  - "truth"
+  - "topology"
+  - "CAP theorem"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 # Introduction
 
 The Halting Problem and its constituent pedagogical discourse

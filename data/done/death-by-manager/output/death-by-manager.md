@@ -1,3 +1,59 @@
+---
+title: "Death by Manager"
+linkTitle: "Death by Manager"
+description: "A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives."
+summary: "A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives."
+slug: "death-by-manager"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: true
+type: "essay"
+layout: "single"
+weight: 0
+categories:
+  - "politics"
+  - "political theory"
+  - "management"
+  - "labor"
+tags:
+  - "managerial class"
+  - "managerialism"
+  - "power"
+  - "organizational design"
+  - "open source"
+  - "capitalism"
+  - "communism"
+  - "fascism"
+keywords:
+  - "managerial class"
+  - "managerial discretion"
+  - "power capture"
+  - "open source governance"
+  - "anti-violence"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 # The Manager as the Apex Corporate Predator
 
 A tragedy in the making can be spotted in the manner by which private

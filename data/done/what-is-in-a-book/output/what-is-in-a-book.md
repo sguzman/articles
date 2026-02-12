@@ -1,3 +1,69 @@
+---
+title: "What Is in a Book?"
+linkTitle: "What Is in a Book?"
+description: "An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint."
+summary: "An essay arguing that books are fungible at the level of their verbal content, exploring how a book's identity can be modeled via typed tuples and semantic constraint."
+slug: "what-is-in-a-book"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: true
+type: "article"
+layout: "single"
+weight: 0
+categories:
+  - "philosophy of language"
+  - "epistemology"
+  - "philosophy of books"
+  - "semantics"
+tags:
+  - "books"
+  - "written word"
+  - "fungibility"
+  - "authorial intention"
+  - "verbal book"
+  - "identity"
+  - "tuple"
+  - "formalism"
+  - "semantics"
+  - "ambiguity"
+  - "epistemology"
+  - "commutative algebra"
+  - "truth"
+  - "lexicon"
+  - "syntax"
+keywords:
+  - "book identity"
+  - "typed tuple"
+  - "author intention"
+  - "semantics"
+  - "ambiguity theory"
+  - "truth as algebra"
+  - "commutativity"
+  - "lexemes"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 # Introduction
 
 The story of the word is written long and deep in the history of

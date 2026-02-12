@@ -1,3 +1,65 @@
+---
+title: "What Is an Inclusive Institution?"
+linkTitle: "What Is an Inclusive Institution?"
+description: "An essay arguing that institutional claims of inclusivity are not mere branding: they entail an obligation to invite inquiry, align rhetoric with mission and resources, and acknowledge the Realpolitik that makes idealistic aims possible."
+summary: "An essay arguing that institutional claims of inclusivity are obligations, not branding, and must match mission, capacity, and governance reality."
+slug: "what-is-an-inclusive-institution"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: true
+type: "article"
+layout: "single"
+weight: 0
+categories:
+  - "education"
+  - "political philosophy"
+  - "institutional analysis"
+  - "rhetoric"
+tags:
+  - "inclusive institution"
+  - "schools"
+  - "progressivism"
+  - "realism"
+  - "Realpolitik"
+  - "institutional governance"
+  - "mission statements"
+  - "organizational will"
+  - "public accountability"
+  - "political rhetoric"
+keywords:
+  - "inclusive institution"
+  - "progressive tradition"
+  - "Realpolitik"
+  - "idealism vs realism"
+  - "institutional mission"
+  - "administrative capacity"
+  - "rhetoric and resources"
+  - "public analysis"
+  - "organizational clarity"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 # What is an Inclusive Institution?
 
 ## Introduction

@@ -1,3 +1,61 @@
+---
+title: "Aggression as Iteration Rate"
+linkTitle: "Aggression as Iteration Rate"
+description: "An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition."
+summary: "An essay proposing a simple mathematical framing of behavior as a probability-like competition among biological impulses, defining aggression as the pursuit and persistence of strategy under conditions like scarcity and competition."
+slug: "aggression-as-iteration-rate"
+url: ""
+aliases: []
+date: "2026-02-11"
+publishDate: "2026-02-11"
+lastmod: "2026-02-11"
+expiryDate: ""
+draft: true
+type: "essay"
+layout: "single"
+weight: 0
+categories:
+  - "behavior"
+  - "philosophy"
+  - "mathematics"
+  - "psychology"
+tags:
+  - "aggression"
+  - "strategy"
+  - "behavioral modeling"
+  - "impulses"
+  - "probability"
+  - "scarcity"
+  - "competition"
+  - "genetics"
+  - "phenotype"
+  - "extended phenotype"
+keywords:
+  - "behavior as impulses"
+  - "normalized impulse strength"
+  - "aggression as strategic iteration"
+  - "scarcity and aggression"
+  - "aggression tolerance inheritance"
+markup: "goldmark"
+outputs:
+  - "HTML"
+  - "RSS"
+headless: false
+isCJKLanguage: false
+translationKey: ""
+resources: []
+_build:
+  list: "always"
+  render: "always"
+  publishResources: true
+cascade: {}
+sitemap:
+  changefreq: ""
+  priority: -1
+  filename: "sitemap.xml"
+---
+
+
 The lands we inherit from our fathers, were cultivated ere they were
 born, and yielded produce before they were cultivated. The products of
 genius are the actual creations of the individual; and, after yielding
