@@ -257,19 +257,19 @@ Monomials, by their simple structure, can easily yield a closed form through
 modest effort. The following are the closed forms of the monomials.
 
 \begin{align}
-    f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
+    f_1(x) = a_1, \quad f_1: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
     f_1(x,n) = a_1
 \end{align}
 
 \begin{align}
-    f_2(x) = a_2x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
-    f_2(x,n) = a_2 \cdot f_2(x,n-1) \notag                                                    \\
+    f_2(x) = a_2x, \quad f_2: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
+    f_2(x,n) = a_2 \cdot f_2(x,n-1)                                                            \\
     f_2(x,n) = {a_2}^{n} \cdot x
 \end{align}
 
 \begin{align}
-    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag \\
-    f_3(x,n) = a_3 \cdot f_3(x,n-1) \notag                                                             \\
+    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \\
+    f_3(x,n) = a_3 \cdot f_3(x,n-1)                                                                     \\
     f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}
     \label{eq:closed-form-3}
 \end{align}
@@ -426,15 +426,15 @@ iteration by following the type signature of the incremental iterations.
 Starting from \ref{eq:closed-form-3},
 
 \begin{equation}
-    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R} \notag
+    f_3(x) = a_3 \cdot x^2, \quad f_3: \mathbb{R} \rightarrow \mathbb{R} \land a \in \mathbb{R}
 \end{equation}
 
 \begin{equation}
-    f_3(x,n) = a_3 \cdot f_3(x,n-1) \notag
+    f_3(x,n) = a_3 \cdot f_3(x,n-1)
 \end{equation}
 
 \begin{equation}
-    f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n} \notag
+    f_3(x,n) = {a_3}^{2n - 1} \cdot x^{2n}
 \end{equation}
 
 \begin{equation}
@@ -940,8 +940,8 @@ allows. The similarities should be shouting out for analysis. Let's now put
 them together to better understand the relationship between the two.
 
 \begin{align}
-    \theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1})) \notag \\
-    \epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n), \pi(2)(\beta, \frac{\alpha^n-1}{\alpha-1})) \notag
+    \theta(x,n) = \pi(0)(\pi(1)(x, \alpha^n), \pi(1)(\beta, \frac{\alpha^n-1}{\alpha-1})) \\
+    \epsilon(x,n) = \pi(1)(\pi(2)(x, \alpha^n), \pi(2)(\beta, \frac{\alpha^n-1}{\alpha-1}))
 \end{align}
 
 We even have the same terms being operated. The pattern seems to be "upgrading"
