@@ -1,0 +1,52 @@
+---
+# Metadata template covering every key currently used across articles.
+# Remove or override entries that don't apply to the piece you're working on.
+abstract: ""
+author: []
+categories: []
+cover-image: ""
+cover_image: ""
+creator: []
+dataset_id: ""
+date: ""
+description: ""
+draft: false
+edition: ""
+epub-chapter-level: 0
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: ""
+identifier: ""
+keywords: []
+lang: ""
+language: ""
+library_of_congress_classification: {}
+license: ""
+number-sections: false
+plate_id: ""
+publisher: ""
+reference-section-title: ""
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: ""
+rights: ""
+series: ""
+series-number: 0
+series-title: ""
+slug: ""
+status: ""
+subject: []
+subjects: []
+subtitle: ""
+tags: []
+title: ""
+toc: false
+toc-depth: 0
+toc-title: ""
+type: ""
+...
