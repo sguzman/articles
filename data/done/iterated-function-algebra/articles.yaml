@@ -1,0 +1,84 @@
+---
+abstract: >-
+  A polemical essay on the "death" of Hilbert-style formalism and its rebirth as a
+  computational poetics of syntax. It argues that the naive formalist program
+  failed for lacking an adequate computational foundation for provability, but
+  that its legacy lives on in modern formal systems. The piece then sketches an
+  ambitious research direction: a syntactic/algebraic framework for iterating
+  functions (with polynomials as a testing ground), using types, currying, and an
+  operator-indexing scheme inspired by Gödel-style encodings to reason about the
+  dynamics of iterated operations.
+author:
+  - "Salvador Guzman"
+categories:
+  - "Mathematics"
+  - "Philosophy of Mathematics"
+  - "Computation"
+cover-image: ""
+cover_image: ""
+creator: []
+dataset_id: ""
+date: "2026-02-11"
+description: >-
+  Formalism as tragedy, computation as poetry: from Hilbert and intuitionism to a
+  proposed algebra of iterated operations on polynomials via syntactic encoding.
+draft: false
+edition: ""
+epub-chapter-level: 0
+epub-cover-image: ""
+epub-title-page: false
+epub_cover_image: ""
+format: "text/markdown"
+identifier: ""
+keywords:
+  - "formalism"
+  - "Hilbert program"
+  - "intuitionism"
+  - "syntax"
+  - "provability"
+  - "lambda calculus"
+  - "combinatory logic"
+  - "type theory"
+  - "polynomials"
+  - "iteration"
+  - "closed form"
+  - "operator theory"
+  - "Gödel numbering"
+lang: "en"
+language: "English"
+library_of_congress_classification: {}
+license: "CC0-1.0"
+number-sections: true
+plate_id: ""
+publisher: ""
+reference-section-title: "References"
+report: {}
+report-no: ""
+report-number: ""
+report-year: ""
+report_no: 0
+report_year: 0
+revision: "1"
+rights: "CC0-1.0"
+series: ""
+series-number: 0
+series-title: ""
+slug: "iterated-function-algebra"
+status: "draft"
+subject: []
+subjects: []
+subtitle: "A syntactic essay toward an algebra of iteration"
+tags:
+  - "formalism"
+  - "syntax"
+  - "computation"
+  - "polynomials"
+  - "iteration"
+  - "type signatures"
+  - "operators"
+title: "The Tragedy of Formalism"
+toc: true
+toc-depth: 2
+toc-title: "Contents"
+type: "article"
+...
