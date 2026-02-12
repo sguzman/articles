@@ -1,0 +1,102 @@
+---
+title: "What Is in a Book?"
+subtitle: "On fungibility, intention, and the algebra of meaning"
+slug: "what-is-in-a-book"
+
+author:
+  - "Salvador Guzman"
+creator:
+  - "Salvador Guzman"
+
+date: "2026-02-11"
+draft: true
+status: "draft"
+revision: "0.1.0"
+
+lang: "en"
+language: "English"
+
+type: "article"
+format: "text/markdown"
+
+categories:
+  - "philosophy of language"
+  - "epistemology"
+  - "philosophy of books"
+  - "semantics"
+
+tags:
+  - "books"
+  - "written word"
+  - "fungibility"
+  - "authorial intention"
+  - "verbal book"
+  - "identity"
+  - "tuple"
+  - "formalism"
+  - "semantics"
+  - "ambiguity"
+  - "epistemology"
+  - "commutative algebra"
+  - "truth"
+  - "lexicon"
+  - "syntax"
+
+keywords:
+  - "book identity"
+  - "typed tuple"
+  - "author intention"
+  - "semantics"
+  - "ambiguity theory"
+  - "truth as algebra"
+  - "commutativity"
+  - "lexemes"
+
+subject:
+  - "philosophy of language"
+  - "semantics"
+  - "epistemology"
+subjects:
+  - "philosophy of language"
+  - "semantics"
+  - "epistemology"
+
+description: >
+  An essay arguing that books are fungible at the level of their verbal content,
+  exploring how a book’s “identity” can be modeled (imperfectly) via typed tuples,
+  then reversing the usual emphasis on the author by treating words and semantic
+  constraint as primary. It frames ambiguity as a core adversary of formal meaning
+  and gestures toward a commutative “algebra of truth.”
+
+abstract: |
+  This essay asks what a book is, treating the “verbal book” (the total written
+  content) as the main object of analysis rather than the physical artifact. It
+  proposes a simple typed-tuple model for identifying books (author, title,
+  edition) while acknowledging that any such formalism is incomplete without a
+  theory of intention. The analysis then flips direction: rather than grounding a
+  book in an author, it treats words as primary and authorial identity as
+  downstream from the semantic space constrained by text. Ambiguity is presented
+  as the persistent obstacle for any rigorous semantics, motivating the desire
+  for a general “ambiguity theory.” The essay closes with a speculative proposal:
+  truth should be modeled in a way that is less dependent on word order, aiming
+  toward a commutative, set-like semantics—an “abelian algebra of epistemology.”
+
+license: "CC0-1.0"
+rights: "CC0 1.0 Universal (CC0-1.0)"
+
+identifier: "what-is-in-a-book"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+number-sections: true
+
+epub-title-page: true
+epub-chapter-level: 1
+cover-image: "cover.png"
+cover_image: "cover.png"
+epub-cover-image: "cover.png"
+epub_cover_image: "cover.png"
+
+reference-section-title: "References"
+...
