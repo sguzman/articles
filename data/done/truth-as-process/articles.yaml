@@ -1,0 +1,98 @@
+---
+title: "Truth as Process"
+subtitle: "A topology-friendly reply to the halting problem"
+slug: "truth-as-process"
+
+author:
+  - "Salvador Guzman"
+creator:
+  - "Salvador Guzman"
+
+date: "2026-02-11"
+draft: true
+status: "draft"
+revision: "0.1.0"
+
+lang: "en"
+language: "English"
+
+type: "article"
+format: "text/markdown"
+
+categories:
+  - "philosophy of computation"
+  - "logic"
+  - "philosophy of mathematics"
+  - "epistemology"
+
+tags:
+  - "halting problem"
+  - "computability"
+  - "paradox"
+  - "axioms"
+  - "platonism"
+  - "tool-worship"
+  - "truth as process"
+  - "topology"
+  - "distributed systems"
+  - "CAP theorem"
+
+keywords:
+  - "halting problem"
+  - "computability"
+  - "paradox"
+  - "platonism"
+  - "axioms"
+  - "truth"
+  - "topology"
+  - "CAP theorem"
+
+subject:
+  - "computability theory"
+  - "philosophy of logic"
+  - "philosophy of mathematics"
+subjects:
+  - "computability theory"
+  - "philosophy of logic"
+  - "philosophy of mathematics"
+
+description: >
+  An essay arguing that the halting problem’s “paradox” is partly a self-imposed
+  constraint: demanding a point answer to a line-shaped process. It proposes
+  treating truth as something that can be conferred by an evolving process rather
+  than a single atomic verdict.
+
+abstract: |
+  This essay revisits the halting problem as a case study in how intellectual tools
+  can be treated as sacred rather than adjustable. It argues that “paradox” often
+  arises from insisting on rigid, point-like truth conditions for phenomena that are
+  inherently process-shaped. On that basis, it sketches a modest “solution” to the
+  halting problem by extending truth from a single moment to a time-extended
+  procedure: output “no” by default, run the process, and only if execution returns
+  emit “yes.” The essay closes by generalizing the idea as “truth as process,”
+  pointing to probabilistic confidence and distributed-systems tradeoffs as familiar
+  domains where correctness can be understood as eventual or tolerance-bounded.
+
+license: "CC0-1.0"
+rights: "CC0 1.0 Universal (CC0-1.0)"
+
+identifier: "truth-as-process"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+number-sections: true
+
+epub-title-page: true
+epub-chapter-level: 1
+cover-image: "cover.png"
+cover_image: "cover.png"
+epub-cover-image: "cover.png"
+epub_cover_image: "cover.png"
+
+reference-section-title: "References"
+
+# Optional fields left intentionally blank / omitted:
+# dataset_id, edition, library_of_congress_classification, plate_id,
+# publisher, report*, series*
+...
