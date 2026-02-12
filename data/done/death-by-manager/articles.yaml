@@ -1,0 +1,75 @@
+---
+title: "Death by Manager"
+subtitle: "The manager as the apex corporate predator"
+slug: "death-by-manager"
+
+date: "2026-02-11"
+lang: "en"
+language: "English"
+
+author:
+  - "Salvador Guzman"
+creator:
+  - "Salvador Guzman"
+publisher: "Salvador Guzman"
+
+license: "CC0-1.0"
+rights: "CC0-1.0"
+
+type: "essay"
+format: "markdown"
+status: "draft"
+draft: true
+revision: "0.1"
+
+description: "A polemical essay arguing that the managerial class becomes a predatory power center across ideologies and should be dismantled through nonviolent, open-source-inspired alternatives."
+abstract: |-
+  This essay argues that the managerial class is a uniquely predatory power center whose influence spans beyond the workplace into the public sphere. It rejects naive ideological sorting (left vs. right) and instead treats managerialism as an opportunistic class strategy: managers align with the left while power remains to be captured, then turn conservative once their interests are secured. The piece explicitly forbids political violence and distances itself from Marxist revolutionary habits, proposing instead a technological and institutional approach inspired by open-source culture: build systems that make managerial discretion legible, reproducible, and replaceable, so that managerial power cannot regenerate by default.
+
+categories:
+  - "politics"
+  - "political theory"
+  - "management"
+  - "labor"
+
+tags:
+  - "managerial class"
+  - "managerialism"
+  - "power"
+  - "organizational design"
+  - "open source"
+  - "capitalism"
+  - "communism"
+  - "fascism"
+
+keywords:
+  - "managerial class"
+  - "managerial discretion"
+  - "power capture"
+  - "open source governance"
+  - "anti-violence"
+
+subject:
+  - "political economy"
+subjects:
+  - "political economy"
+  - "organizational power"
+  - "institutional design"
+
+identifier: "urn:slug:death-by-manager"
+
+cover-image: "cover.png"
+cover_image: "cover.png"
+epub-cover-image: "cover.png"
+epub_cover_image: "cover.png"
+
+toc: true
+toc-title: "Contents"
+toc-depth: 2
+number-sections: false
+
+epub-chapter-level: 1
+epub-title-page: false
+
+library_of_congress_classification: {}
+...
