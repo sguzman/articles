@@ -1,0 +1,94 @@
+---
+title: "What Is an Inclusive Institution?"
+subtitle: "On progressive rhetoric, Realpolitik, and the obligations of governance"
+slug: "what-is-an-inclusive-institution"
+
+author:
+  - "Salvador Guzman"
+creator:
+  - "Salvador Guzman"
+
+date: "2026-02-11"
+draft: true
+status: "draft"
+revision: "0.1.0"
+
+lang: "en"
+language: "English"
+
+type: "article"
+format: "text/markdown"
+
+categories:
+  - "education"
+  - "political philosophy"
+  - "institutional analysis"
+  - "rhetoric"
+
+tags:
+  - "inclusive institution"
+  - "schools"
+  - "progressivism"
+  - "realism"
+  - "Realpolitik"
+  - "institutional governance"
+  - "mission statements"
+  - "organizational will"
+  - "public accountability"
+  - "political rhetoric"
+
+keywords:
+  - "inclusive institution"
+  - "progressive tradition"
+  - "Realpolitik"
+  - "idealism vs realism"
+  - "institutional mission"
+  - "administrative capacity"
+  - "rhetoric and resources"
+  - "public analysis"
+  - "organizational clarity"
+
+subject:
+  - "education policy"
+  - "political philosophy"
+  - "institutional governance"
+subjects:
+  - "education policy"
+  - "political philosophy"
+  - "institutional governance"
+
+description: >
+  An essay arguing that institutional claims of “inclusivity” are not mere branding:
+  they entail an obligation to invite inquiry, align rhetoric with mission and resources,
+  and acknowledge the Realpolitik that makes idealistic aims possible.
+
+abstract: |
+  This essay treats modern schools as institutions shaped by progressive traditions and
+  asks what it really means for a school to call itself “inclusive.” It frames
+  inclusivity as a claim that invites inquiry into mission, formalisms, governance,
+  and whether criticism is tolerated as part of public analysis. The essay then
+  rejects a simplistic idealism-versus-realism dichotomy, proposing instead a
+  hierarchy where lofty ideals rest on the enabling substrate of Realpolitik. On this
+  view, rhetoric is accountable: if an institution cannot furnish resources and
+  administrative appetite to realize the inclusive label, it should temper its claims
+  and “recede its reach,” scaling ambitions to what its material capacity can sustain.
+
+license: "CC0-1.0"
+rights: "CC0 1.0 Universal (CC0-1.0)"
+
+identifier: "what-is-an-inclusive-institution"
+
+toc: true
+toc-depth: 3
+toc-title: "Contents"
+number-sections: true
+
+epub-title-page: true
+epub-chapter-level: 1
+cover-image: "cover.png"
+cover_image: "cover.png"
+epub-cover-image: "cover.png"
+epub_cover_image: "cover.png"
+
+reference-section-title: "References"
+...
